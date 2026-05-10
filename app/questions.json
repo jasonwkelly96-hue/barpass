@@ -1,0 +1,761 @@
+[
+  {
+    "id": "con-001",
+    "subject": "Contracts",
+    "subtopic": "Offer & Acceptance",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "A homeowner posted a notice: \"I will sell my lawnmower to the first person who pays me $200.\" A neighbor drove over with $200 but the homeowner had already sold it to a coworker.",
+    "question": "Does the neighbor have a valid breach of contract claim?",
+    "choices": [
+      "Yes, unilateral contract accepted by tendering payment.",
+      "Yes, detrimental reliance.",
+      "No, merely an invitation to negotiate.",
+      "No, neighbor hadn't tendered yet."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. The posting is an invitation to deal.",
+      "Incorrect. Requires a clear promise.",
+      "Correct. Public postings are invitations to negotiate, not offers.",
+      "Incorrect. Threshold issue is whether it was an offer."
+    ]
+  },
+  {
+    "id": "con-002",
+    "subject": "Contracts",
+    "subtopic": "Consideration",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A contractor building a house for $500,000 discovered bad soil requiring $80,000 more. Client orally agreed to pay more but refused after completion.",
+    "question": "Is the promise to pay $80,000 more enforceable?",
+    "choices": [
+      "Yes, unforeseen conditions justify modification.",
+      "Yes, client got the benefit.",
+      "No, preexisting duty.",
+      "No, oral modification fails statute of frauds."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Modern approach enforces modifications for unanticipated circumstances.",
+      "Incorrect. Benefit under preexisting duty is insufficient.",
+      "Incorrect under modern approach.",
+      "Incorrect. Construction services, not goods."
+    ]
+  },
+  {
+    "id": "con-003",
+    "subject": "Contracts",
+    "subtopic": "Statute of Frauds",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Retailer and manufacturer orally agreed on 500 custom widgets for $15,000. Manufacturer spent $6,000 on specialized materials. Retailer repudiated.",
+    "question": "Is the oral agreement enforceable?",
+    "choices": [
+      "No, goods over $500 need a writing.",
+      "No, repudiated before completion.",
+      "Yes, specially manufactured goods exception.",
+      "Yes, performable within one year."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Specially manufactured goods exception applies.",
+      "Incorrect. Completion timing irrelevant.",
+      "Correct. UCC 2-201(3)(a) exception for specially manufactured goods.",
+      "Incorrect. UCC goods statute still applies."
+    ]
+  },
+  {
+    "id": "con-004",
+    "subject": "Contracts",
+    "subtopic": "Breach & Remedies",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Artist agreed to paint CEO portrait for $50,000. She breached for a $200,000 museum offer. CEO hired replacement for $65,000 and claimed $10,000 consequential damages for postponed event.",
+    "question": "Most likely damages?",
+    "choices": [
+      "$15,000 cover only.",
+      "$25,000 with consequentials.",
+      "$15,000 cover; consequentials not foreseeable.",
+      "$50,000 restitution."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incomplete. Doesn't address consequentials.",
+      "Incorrect. Consequentials fail Hadley v. Baxendale.",
+      "Correct. Cover damages proper; consequentials fail foreseeability.",
+      "Incorrect. CEO hasn't paid."
+    ]
+  },
+  {
+    "id": "con-005",
+    "subject": "Contracts",
+    "subtopic": "Third-Party Beneficiaries",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Father contracted with builder to build house on daughter's land as a gift. Builder used substandard materials. Father paid. Daughter sued.",
+    "question": "Can the daughter recover?",
+    "choices": [
+      "No, no privity.",
+      "No, no consideration from her.",
+      "Yes, intended beneficiary.",
+      "Yes, but only with reliance."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Privity not required.",
+      "Incorrect. Consideration not required from beneficiary.",
+      "Correct. Intended donee beneficiary.",
+      "Incorrect. Reliance not required."
+    ]
+  },
+  {
+    "id": "con-006",
+    "subject": "Contracts",
+    "subtopic": "Promissory Estoppel",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Donor promised $500,000 to nonprofit. Nonprofit spent $300,000 on architect, land, and construction. Donor refused.",
+    "question": "Recovery under promissory estoppel?",
+    "choices": [
+      "$500,000.",
+      "$300,000.",
+      "Nothing, need consideration.",
+      "Nothing, oral promise."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Limited to reliance damages.",
+      "Correct. $300,000 in reliance expenditures.",
+      "Incorrect. Estoppel enforces promises without consideration.",
+      "Incorrect. No writing required."
+    ]
+  },
+  {
+    "id": "con-007",
+    "subject": "Contracts",
+    "subtopic": "Conditions & Performance",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Painter hired for $8,000 with WeatherShield Premium specified. Used equal-quality ProCoat Elite instead. Homeowner refused all payment.",
+    "question": "Can painter recover?",
+    "choices": [
+      "Yes, full $8,000.",
+      "Yes, substantial performance minus offset.",
+      "No, express condition.",
+      "No, material breach."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Deviation prevents full recovery.",
+      "Correct. Substantial performance allows recovery minus damages.",
+      "Incorrect. Specs are promises, not conditions.",
+      "Incorrect. Equivalent substitution not material."
+    ]
+  },
+  {
+    "id": "con-008",
+    "subject": "Contracts",
+    "subtopic": "Accord & Satisfaction",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Carpet company owed $15,000. Customer sent $12,000 check with note that cashing discharges the rest, citing stains.",
+    "question": "Best search term for whether company can cash and still collect?",
+    "choices": [
+      "Accord and satisfaction.",
+      "Consideration.",
+      "Novation.",
+      "Offer and acceptance."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Classic accord and satisfaction.",
+      "Incorrect. More specific doctrine applies.",
+      "Incorrect. Novation is different.",
+      "Incorrect. Accord and satisfaction is more targeted."
+    ]
+  },
+  {
+    "id": "tor-001",
+    "subject": "Torts",
+    "subtopic": "Negligence - Duty of Care",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "Property owner hired tree company. Branch fell on pedestrian. No warnings posted.",
+    "question": "Is property owner liable?",
+    "choices": [
+      "Yes, strict liability.",
+      "Yes, non-delegable duty.",
+      "No, independent contractor.",
+      "No, assumed risk."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. No strict liability.",
+      "Correct. Non-delegable duty near public ways.",
+      "Incorrect. Cannot transfer non-delegable duties.",
+      "Incorrect. No warnings means no known risk."
+    ]
+  },
+  {
+    "id": "tor-002",
+    "subject": "Torts",
+    "subtopic": "Negligence - Causation",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Driver ran red light. Injured driver's ambulance hit by drunk driver.",
+    "question": "Original driver liable for ambulance injuries?",
+    "choices": [
+      "Yes, foreseeable.",
+      "Yes, only if ambulance driver negligent.",
+      "No, superseding cause.",
+      "No, not but-for cause."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Transport injuries are foreseeable.",
+      "Incorrect. Not dependent on ambulance driver.",
+      "Incorrect. Not extraordinary enough.",
+      "Incorrect. But-for satisfied."
+    ]
+  },
+  {
+    "id": "tor-003",
+    "subject": "Torts",
+    "subtopic": "Strict Liability - Products",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Blender lid detached causing burns. $0.50 fix was rejected by engineers.",
+    "question": "Strongest strict liability basis?",
+    "choices": [
+      "Manufacturing defect.",
+      "Design defect.",
+      "Failure to warn.",
+      "Implied warranty."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Performed as designed.",
+      "Correct. Reasonable alternative at trivial cost.",
+      "Incorrect. Design fix preferred.",
+      "Incorrect. Contract law."
+    ]
+  },
+  {
+    "id": "tor-004",
+    "subject": "Torts",
+    "subtopic": "Intentional Torts - Battery",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "Patron threw water in another's face, dislodging contacts.",
+    "question": "Battery succeed?",
+    "choices": [
+      "No, water not harmful.",
+      "No, no injury.",
+      "Yes, intended offensive contact.",
+      "Yes, only if knew about contacts."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Water in face is offensive.",
+      "Incorrect. Battery protects dignity.",
+      "Correct. Intentional offensive contact.",
+      "Incorrect. Intent to contact is enough."
+    ]
+  },
+  {
+    "id": "tor-005",
+    "subject": "Torts",
+    "subtopic": "Negligence - Comparative Fault",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Cyclist without lights hit by texting motorist. $100,000 damages. 40% cyclist fault. 50% bar.",
+    "question": "Recovery?",
+    "choices": [
+      "$100,000.",
+      "$60,000.",
+      "$40,000.",
+      "Nothing."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Reduced by fault.",
+      "Correct. 40% below bar, $60,000.",
+      "Incorrect. Wrong calculation.",
+      "Incorrect. Not contributory negligence."
+    ]
+  },
+  {
+    "id": "tor-006",
+    "subject": "Torts",
+    "subtopic": "Negligence - Res Ipsa Loquitur",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Patient woke from knee surgery with shoulder burn. Unconscious throughout.",
+    "question": "Prima facie negligence?",
+    "choices": [
+      "No, can't identify cause.",
+      "No, need expert.",
+      "Yes, res ipsa.",
+      "Yes, only with prior incidents."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Res ipsa covers this.",
+      "Incorrect. Res ipsa eliminates need.",
+      "Correct. All elements met.",
+      "Incorrect. Not required."
+    ]
+  },
+  {
+    "id": "crm-001",
+    "subject": "Criminal Law",
+    "subtopic": "Fourth Amendment",
+    "difficulty": 2,
+    "selectCount": 2,
+    "stem": "Client charged with fentanyl in uncle's guest bedroom. Uncle consented to search. Client stayed there two nights prior.",
+    "question": "Most important topics for suppression motion? Select two.",
+    "choices": [
+      "Consent search.",
+      "Exigent circumstances.",
+      "Hot pursuit.",
+      "Probable cause.",
+      "Reasonable suspicion.",
+      "Standing."
+    ],
+    "correct": [
+      0,
+      5
+    ],
+    "explanations": [
+      "Correct. Uncle's authority to consent is critical.",
+      "Incorrect. No emergency.",
+      "Incorrect. No fleeing suspect.",
+      "Incorrect. Consent-based search.",
+      "Incorrect. Terry stops only.",
+      "Correct. Must show expectation of privacy."
+    ]
+  },
+  {
+    "id": "evi-001",
+    "subject": "Evidence",
+    "subtopic": "Best Evidence Rule",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Agent overheard drug conspiracy conversation. Also audiotaped but partly inaudible. Defendant objects testimony isn't best evidence.",
+    "question": "Is testimony admissible?",
+    "choices": [
+      "No, not best evidence.",
+      "No, hearsay.",
+      "Yes, best evidence rule doesn't apply.",
+      "Yes, tape inaudible."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Rule applies to recordings, not firsthand testimony.",
+      "Incorrect. Coconspirator exception applies.",
+      "Correct. Agent testifies from personal knowledge.",
+      "Incorrect. Primary reason is rule doesn't apply."
+    ]
+  },
+  {
+    "id": "prp-001",
+    "subject": "Real Property",
+    "subtopic": "Recording Statutes",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Bank's mortgage vs. another lender claiming prior mortgage in foreclosure.",
+    "question": "What affects priority?",
+    "choices": [
+      "Covenants of title.",
+      "Deficiency statutes.",
+      "Recording statutes.",
+      "Statute of frauds."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Deed warranties.",
+      "Incorrect. Post-foreclosure.",
+      "Correct. Recording statutes determine priority.",
+      "Incorrect. Writing requirements."
+    ]
+  },
+  {
+    "id": "civ-001",
+    "subject": "Civil Procedure",
+    "subtopic": "Summary Judgment",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Worker sued insulation manufacturer. After depositions, manufacturer moved for summary judgment.",
+    "question": "Worker's best response?",
+    "choices": [
+      "Request more discovery under FRCP 56(d).",
+      "Credibility is for jury.",
+      "Manufacturer failed to attach evidence.",
+      "Cross-move for summary judgment."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. FRCP 56(d) allows requesting more discovery.",
+      "Incorrect. SJ can be granted despite credibility issues.",
+      "Incorrect. Celotex allows pointing to absence.",
+      "Incorrect. Impossible at this stage."
+    ]
+  },
+  {
+    "id": "prp-002",
+    "subject": "Real Property",
+    "subtopic": "Adverse Possession & Trespass",
+    "difficulty": 2,
+    "selectCount": 2,
+    "stem": "Neighbor built fence on client's land. Survey confirms encroachment.",
+    "question": "Most important topics? Select two.",
+    "choices": [
+      "Adverse possession.",
+      "Conversion.",
+      "Implied easement.",
+      "License.",
+      "Negligence.",
+      "Trespass."
+    ],
+    "correct": [
+      0,
+      5
+    ],
+    "explanations": [
+      "Correct. Fence may satisfy AP elements.",
+      "Incorrect. Personal property only.",
+      "Incorrect. No prior common ownership.",
+      "Incorrect. No permission.",
+      "Incorrect. Trespass/AP are primary.",
+      "Correct. Trespass confirmed by survey."
+    ]
+  },
+  {
+    "id": "csl-001",
+    "subject": "Constitutional Law",
+    "subtopic": "Due Process & Employment",
+    "difficulty": 2,
+    "selectCount": 2,
+    "stem": "State college wants to fire tennis coach without hearing. No contract duration discussed.",
+    "question": "Most important topics? Select two.",
+    "choices": [
+      "Employment at will.",
+      "Parol evidence.",
+      "Procedural due process.",
+      "Substantial performance.",
+      "Substantive due process.",
+      "Takings clause."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanations": [
+      "Correct. May be at-will.",
+      "Incorrect. Written contracts only.",
+      "Correct. State entity must provide due process.",
+      "Incorrect. Contract fulfillment.",
+      "Incorrect. No fundamental right.",
+      "Incorrect. Not a taking."
+    ]
+  },
+  {
+    "id": "prp-003",
+    "subject": "Real Property",
+    "subtopic": "Landlord-Tenant",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "New tenant couldn't move in because holdover refused to leave. Tenant sued holdover, then sued landlord.",
+    "question": "Why would court find for landlord?",
+    "choices": [
+      "Tenant elected remedy.",
+      "Landlord delivered legal possession.",
+      "Failed to vacate for constructive eviction.",
+      "Failed to notify landlord."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Doesn't bar landlord claim.",
+      "Correct. American rule: duty is legal possession only.",
+      "Incorrect. Requires landlord misconduct.",
+      "Incorrect. Not primary basis."
+    ]
+  },
+  {
+    "id": "civ-011",
+    "subject": "Civil Procedure",
+    "subtopic": "Subject Matter Jurisdiction",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Company sued entrepreneur in federal court for $50,000 alleging federal trademark infringement. Entrepreneur moved to dismiss for lack of SMJ six months later.",
+    "question": "Should the court grant the motion?",
+    "choices": [
+      "No, claim arises under federal law.",
+      "No, entrepreneur waived by waiting.",
+      "Yes, amount in controversy not met.",
+      "Yes, diversity amount not met."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Federal trademark = federal question under 28 USC 1331. No amount requirement.",
+      "Incorrect. SMJ cannot be waived under Rule 12(h)(3).",
+      "Incorrect. No amount requirement for federal questions.",
+      "Incorrect. Federal claims are federal-question cases."
+    ]
+  },
+  {
+    "id": "civ-012",
+    "subject": "Civil Procedure",
+    "subtopic": "Service of Process",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Investor sued stockbroker. Process served at stockbroker's office on administrative assistant. Stockbroker raised improper service in answer.",
+    "question": "Dismiss for improper service?",
+    "choices": [
+      "No, suitable age person at workplace.",
+      "No, waived by raising in answer.",
+      "Yes, can't serve third party at workplace.",
+      "Yes, State A process not effective in State B."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Rule 4(e)(2) allows this only at dwelling, not workplace.",
+      "Incorrect. Raising in answer preserves the defense.",
+      "Correct. No authority for workplace service on non-agents.",
+      "Incorrect. Federal process crosses state lines under Rule 4(k)."
+    ]
+  },
+  {
+    "id": "civ-013",
+    "subject": "Civil Procedure",
+    "subtopic": "Erie Doctrine",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Truck driver from State A sued bus driver from State B in federal court in State B for negligence.",
+    "question": "What negligence law applies?",
+    "choices": [
+      "Federal common law.",
+      "State A law.",
+      "Whichever law court finds appropriate.",
+      "Law that State B courts would apply under their choice-of-law rules."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. No federal common law of negligence.",
+      "Incorrect. Can't just pick plaintiff's state.",
+      "Incorrect. Would create federal choice-of-law rules.",
+      "Correct. Klaxon requires forum state's choice-of-law rules."
+    ]
+  },
+  {
+    "id": "civ-014",
+    "subject": "Civil Procedure",
+    "subtopic": "Jury Trial",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "Patent holder wanted jury trial in infringement case.",
+    "question": "How to secure jury trial right?",
+    "choices": [
+      "Include demand in complaint.",
+      "Demand at close of discovery.",
+      "Demand within 30 days after pleadings.",
+      "Demand at pretrial conference."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Rule 38(b)(1) allows demand in a pleading.",
+      "Incorrect. Must be within 14 days of last pleading.",
+      "Incorrect. 14 days, not 30.",
+      "Incorrect. Too late."
+    ]
+  },
+  {
+    "id": "civ-015",
+    "subject": "Civil Procedure",
+    "subtopic": "Third-Party Claims",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Manufacturer filed third-party complaint against designer claiming designer was solely at fault. Designer knows manufacturer didn't follow specs.",
+    "question": "Best argument for dismissing third-party complaint?",
+    "choices": [
+      "No SMJ, both from State B.",
+      "Failed to get leave.",
+      "Manufacturer caused the flaw.",
+      "Not a proper third-party claim."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. Supplemental jurisdiction applies.",
+      "Incorrect. Leave not needed within 14 days.",
+      "Incorrect. Factual argument, not dismissal basis.",
+      "Correct. Rule 14 requires derivative liability, not just blaming another party."
+    ]
+  },
+  {
+    "id": "civ-016",
+    "subject": "Civil Procedure",
+    "subtopic": "Jury Selection",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Potential juror was former employee of defendant company and still owned stock. Said he could be fair.",
+    "question": "Strike for cause?",
+    "choices": [
+      "No, said he could be fair.",
+      "No, use peremptory challenge.",
+      "Yes, other jurors available.",
+      "Yes, presumed biased due to relationship."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. Statement not determinative.",
+      "Incorrect. Peremptory availability is irrelevant.",
+      "Incorrect. Other jurors' availability is irrelevant.",
+      "Correct. Stock ownership and prior employment create presumption of bias."
+    ]
+  },
+  {
+    "id": "civ-017",
+    "subject": "Civil Procedure",
+    "subtopic": "Summary Judgment",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Woman sued employer for sex discrimination with detailed complaint. Employer moved for SJ calling her a liar. Her attorney missed response deadline. Court granted SJ.",
+    "question": "Will appellate court uphold?",
+    "choices": [
+      "No, complaint was detailed.",
+      "No, credibility attack created factual dispute.",
+      "Yes, no affidavit supporting allegations.",
+      "Yes, failure to respond is default."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Detail alone doesn't prevent SJ.",
+      "Correct. Challenging credibility disputes all facts, so genuine disputes exist.",
+      "Incorrect. Failure to respond doesn't itself justify SJ.",
+      "Incorrect. Not a default; movant must still meet standard."
+    ]
+  },
+  {
+    "id": "civ-018",
+    "subject": "Civil Procedure",
+    "subtopic": "Judgment as a Matter of Law",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Man sued insurer for mountain-biking expenses. Insurer showed unduly risky exclusion and warning signs testimony. Man didn't cross-examine.",
+    "question": "Grant JMOL?",
+    "choices": [
+      "No, must be made at close of plaintiff's case.",
+      "No, unduly risky is jury question.",
+      "Yes, uncontradicted evidence.",
+      "Yes, man waived right to rebut."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Can be made anytime before jury gets case.",
+      "Correct. Jury must decide what signs meant and whether behavior was unduly risky.",
+      "Incorrect. Jury could interpret signs differently.",
+      "Incorrect. No obligation to address defense in case-in-chief."
+    ]
+  },
+  {
+    "id": "civ-019",
+    "subject": "Civil Procedure",
+    "subtopic": "Res Judicata",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Motorcyclist lost property damage suit against truck driver. Then sued driver's employer for personal injuries from same accident.",
+    "question": "Why would court grant employer's motion to dismiss?",
+    "choices": [
+      "Claim preclusion.",
+      "Issue preclusion.",
+      "Election of remedies.",
+      "Law of the case."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Same accident = same cause of action. Employer in privity with driver.",
+      "Incorrect. General verdict doesn't establish lack of negligence.",
+      "Incorrect. Federal Rules reject election of remedies.",
+      "Incorrect. Applies within same case only."
+    ]
+  },
+  {
+    "id": "civ-020",
+    "subject": "Civil Procedure",
+    "subtopic": "Standards of Review",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "University appealed negligence verdict. Argues testimony about prior accidents should have been excluded.",
+    "question": "What standard of review?",
+    "choices": [
+      "Abuse of discretion.",
+      "Clearly erroneous.",
+      "De novo.",
+      "Harmless error."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Evidentiary rulings reviewed for abuse of discretion.",
+      "Incorrect. For bench trial fact findings.",
+      "Incorrect. For pure legal questions.",
+      "Incorrect. Harmless error is a conclusion, not a standard."
+    ]
+  }
+]
