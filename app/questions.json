@@ -1381,5 +1381,509 @@
       "Correct. Under the UPA, every partner is an agent of the partnership for the purpose of its business. The act of any partner for apparently carrying on in the ordinary course the partnership business binds the partnership, unless the partner had no authority and the third party knew of the lack of authority. Leasing additional restaurant space is within the ordinary course of a restaurant business.",
       "Incorrect. The partnership is bound regardless of whether the lease turns out to be beneficial. The test is whether the act was within the ordinary course of business and whether the third party had notice of any authority limitation."
     ]
+  },
+  {
+    "id": "crm-010",
+    "subject": "Criminal Law",
+    "subtopic": "Self-Defense",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A father lived with his alcoholic son who often became violent when drunk. One night, hearing his son making loud obscene remarks on the stoop, the father was certain the son was drunk and terrified of being beaten again. He bolted the door and got a revolver. When the son kicked down the door and burst through, the father shot him four times, killing him. In fact, the son was not intoxicated and did not intend to harm his father. The father requested a self-defense jury instruction.",
+    "question": "How should the judge instruct the jury on self-defense?",
+    "choices": [
+      "Give the instruction, because it expresses the defense's theory of the case.",
+      "Give the instruction, because the evidence is sufficient to raise the defense.",
+      "Deny the instruction, because the father was not in imminent danger.",
+      "Deny the instruction, because the father used excessive force."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. A judge does not give an instruction merely because it reflects the defense's theory. The instruction must be supported by sufficient evidence.",
+      "Correct. The evidence, viewed most favorably to the defense, shows the father had a history of being beaten by his drunken son, reasonably believed the son was drunk based on the loud obscene remarks, and feared imminent physical harm when the son violently kicked down the door. This is sufficient evidence to raise self-defense and let the jury decide whether the father's belief was reasonable.",
+      "Incorrect. The question of whether the father was in imminent danger is for the jury to decide. Based on the son kicking down the door and the father's history of being beaten, a reasonable jury could find imminent danger existed.",
+      "Incorrect. Whether the force was excessive is a factual question for the jury. Given the history of violent beatings and the son forcibly entering the home, a jury could find the force was proportionate to the perceived threat."
+    ]
+  },
+  {
+    "id": "evi-008",
+    "subject": "Evidence",
+    "subtopic": "Habit & Routine Practice",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A man sued a railroad for injuries when his car was struck by a train at an unguarded crossing. A major issue is whether the train sounded its whistle before arriving. The railroad offered testimony from a resident who has lived near the crossing for 15 years. Although she was not present on the occasion in question, she will testify that whenever she is home, the train always sounds its whistle before arriving at the crossing.",
+    "question": "Is the resident's testimony admissible?",
+    "choices": [
+      "No, due to lack of personal knowledge regarding the incident in question.",
+      "No, because habit evidence is limited to the conduct of persons, not businesses.",
+      "Yes, as evidence of a routine practice.",
+      "Yes, as a summary of her present sense impressions."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While the witness lacks personal knowledge of the specific incident, FRE 406 allows evidence of habit or routine practice to prove that conduct on a particular occasion was in conformity with the habit or practice. Personal knowledge of the specific event is not required.",
+      "Incorrect. FRE 406 applies to both the habit of a person and the routine practice of an organization. A railroad's consistent practice of sounding its whistle qualifies as a routine practice of a business.",
+      "Correct. Under FRE 406, evidence of the routine practice of an organization is admissible to prove that the conduct of the organization on a particular occasion was in conformity with the routine practice. The resident's testimony that the train always sounds its whistle establishes a routine practice, which is admissible regardless of whether she witnessed the specific incident.",
+      "Incorrect. Present sense impressions under FRE 803(1) require statements made while perceiving an event or immediately after. The resident's testimony is about an ongoing pattern of behavior, not a specific contemporaneous observation."
+    ]
+  },
+  {
+    "id": "csl-007",
+    "subject": "Constitutional Law",
+    "subtopic": "Right to Travel",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "To control public school expenditures, a state passed a law providing that children who have not lived in the state for at least one year cannot attend public schools in the state.",
+    "question": "Which statement about this law is most accurate?",
+    "choices": [
+      "The one-year requirement is valid because it does not affect any fundamental right or suspect class.",
+      "State durational residence requirements for publicly funded services are constitutional because they relate to powers reserved to states by the Tenth Amendment.",
+      "Because publicly funded education is a fundamental constitutional right, a state may not deny it to any class of persons who reside in that state.",
+      "State durational residence requirements established solely to reduce expenditures violate the privileges or immunities clause of the Fourteenth Amendment."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. The right to interstate travel is a fundamental right, and durational residency requirements that burden that right are subject to strict scrutiny. The one-year requirement penalizes families who have recently exercised their right to travel.",
+      "Incorrect. While states have broad authority over education under the Tenth Amendment, that authority is limited by the Fourteenth Amendment. Durational residency requirements that burden the right to travel cannot be justified solely by invoking reserved powers.",
+      "Incorrect. The Supreme Court has not recognized publicly funded education as a fundamental constitutional right. However, the law is still unconstitutional because it burdens the fundamental right to interstate travel.",
+      "Correct. Under Saenz v. Roe and related cases, the Privileges or Immunities Clause of the Fourteenth Amendment protects the right of citizens who move to a new state to be treated equally with long-term residents. A durational residency requirement designed solely to reduce expenditures is not a compelling justification for burdening this right."
+    ]
+  },
+  {
+    "id": "tor-007",
+    "subject": "Torts",
+    "subtopic": "Abnormally Dangerous Activity",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A man keeps four German shepherds trained for guard duty in a fenced yard with clearly posted 'Beware of Dogs' signs. His neighbor, who knows about the dogs' ferocity, entered the fenced yard to retrieve a snow shovel the man had borrowed. The neighbor was attacked by one of the dogs and severely injured.",
+    "question": "In a suit against the man, is the neighbor likely to prevail?",
+    "choices": [
+      "No, because the neighbor knew that the man had dangerous dogs in the yard.",
+      "No, because the neighbor was trespassing when he entered the man's property.",
+      "Yes, because the neighbor was an invitee for the purpose of retrieving the shovel.",
+      "Yes, because the man was engaged in an abnormally dangerous activity."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. The neighbor knew about the dogs' ferocity and the warning signs were clearly posted. By voluntarily entering the yard with full knowledge of the danger, the neighbor assumed the risk. A possessor of land who keeps vicious animals may raise assumption of risk as a defense when the plaintiff had actual knowledge of the danger.",
+      "Incorrect. While the neighbor may have been trespassing, the outcome does not turn on trespasser status alone. Even if the neighbor were a trespasser, the man could still be liable for keeping dangerous animals. The key factor is the neighbor's knowledge of and voluntary exposure to the known danger.",
+      "Incorrect. Even if the neighbor had a legitimate purpose for entering, invitee status would not overcome the assumption of risk defense when the neighbor had actual knowledge of the specific danger posed by the dogs.",
+      "Incorrect. While keeping vicious guard dogs could potentially qualify as an abnormally dangerous activity in some circumstances, the more direct defense is assumption of risk based on the neighbor's actual knowledge of the danger."
+    ]
+  },
+  {
+    "id": "civ-022",
+    "subject": "Civil Procedure",
+    "subtopic": "Removal Jurisdiction",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A woman from State A filed an action against a retailer in state court in State B. The complaint alleged the retailer had not delivered $100,000 worth of goods. Twenty days after being served, the retailer, incorporated in State C with its principal place of business in State B, filed a notice of removal in federal court in State B.",
+    "question": "Was the action properly removed?",
+    "choices": [
+      "No, because the notice of removal was not timely filed.",
+      "No, because the retailer is a citizen of State B.",
+      "Yes, because the parties are citizens of different states and more than $75,000 is in controversy.",
+      "Yes, because the retailer is a citizen of both State B and State C."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Under 28 USC 1446(b), a notice of removal must be filed within 30 days of service. Twenty days is within the deadline, so the filing was timely.",
+      "Correct. Under 28 USC 1441(b)(2), a case may not be removed on the basis of diversity jurisdiction if any defendant is a citizen of the state in which the action was brought. The retailer has its principal place of business in State B, making it a citizen of State B. Because the suit was filed in State B and the retailer is a citizen of State B, removal based on diversity is barred by the forum-defendant rule.",
+      "Incorrect. While there is complete diversity (State A plaintiff vs. State B/C defendant) and the amount exceeds $75,000, the forum-defendant rule prevents removal when a defendant is a citizen of the forum state.",
+      "Incorrect. While the retailer is a citizen of both states, dual citizenship does not override the forum-defendant rule. Because the retailer is a citizen of State B where the action was filed, removal is barred."
+    ]
+  },
+  {
+    "id": "csl-008",
+    "subject": "Constitutional Law",
+    "subtopic": "Supreme Court Jurisdiction",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A family sued a city after their house was destroyed under a law authorizing destruction of buildings used for illegal activity. They claimed replacement housing under a state law and the Fourteenth Amendment. The highest state court ruled for the family based solely on the Fourteenth Amendment, noting it had found cities liable in similar cases under the state constitution but declining to use that ground because it was not properly raised.",
+    "question": "Does the U.S. Supreme Court have jurisdiction to review this case?",
+    "choices": [
+      "Yes, because the highest state court based its decision wholly on federal law grounds.",
+      "Yes, because the federal and state law issues are so intertwined that resolving federal issues is necessary for the state law determination.",
+      "No, because the decision of the highest state court renders the case moot.",
+      "No, because independent state law grounds could have been used to justify the result."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. The Supreme Court has jurisdiction because the state court's decision rested entirely on federal law (the Fourteenth Amendment). Under the adequate and independent state grounds doctrine, the Supreme Court lacks jurisdiction only when the state court decision rests on state law grounds that are adequate to support the judgment and independent of federal law. Here, the state court explicitly declined to base its ruling on state constitutional grounds, so there are no independent state grounds supporting the decision.",
+      "Incorrect. While federal and state issues may be related, the basis for Supreme Court jurisdiction here is simpler: the state court relied exclusively on federal law.",
+      "Incorrect. The case is not moot. There is a live controversy between the family and the city over whether the Fourteenth Amendment requires the city to pay for replacement housing.",
+      "Incorrect. The adequate and independent state grounds doctrine bars Supreme Court review only when the state court actually relied on state law grounds. Here, the state court explicitly chose not to rely on the state constitution, so there are no independent state grounds."
+    ]
+  },
+  {
+    "id": "con-009",
+    "subject": "Contracts",
+    "subtopic": "Perfect Tender Rule",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A sporting goods shop contracted with a publisher to buy 1,200 posters of a professional golfer. During production, the golfer's image was inadvertently reversed, making the right-handed golfer appear left-handed. The posters were delivered on time. The shop noticed the discrepancy, which had no provable significant impact on effectiveness, but management felt the posters did not look as good as in the catalog.",
+    "question": "Is the shop legally entitled to reject the posters?",
+    "choices": [
+      "No, because the nonconformity does not materially alter the value of the posters.",
+      "No, because the publisher must be given an opportunity to cure before rejection.",
+      "Yes, because the posters do not conform to the contract.",
+      "Yes, because the publisher breached an implied warranty of fitness for a particular purpose."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Under the UCC's perfect tender rule (Section 2-601), a buyer may reject goods if they fail to conform to the contract in any respect. Unlike the common law substantial performance doctrine, the UCC does not require that the nonconformity be material.",
+      "Incorrect. While the seller may have a right to cure under UCC 2-508, the buyer's right to reject nonconforming goods exists independently. The question asks whether the buyer is entitled to reject, not whether the seller can cure after rejection.",
+      "Correct. Under UCC 2-601, if goods fail to conform to the contract in any respect, the buyer may reject the whole, accept the whole, or accept some and reject the rest. The reversed image is a nonconformity \u2014 the posters do not match what was ordered. The perfect tender rule entitles the buyer to reject even for minor nonconformities.",
+      "Incorrect. The implied warranty of fitness for a particular purpose under UCC 2-315 requires that the seller know the buyer's particular purpose and that the buyer rely on the seller's expertise. These facts do not support such a claim."
+    ]
+  },
+  {
+    "id": "prp-007",
+    "subject": "Real Property",
+    "subtopic": "Mortgages",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A woman borrowed $800,000 and gave the bank a mortgage on her farm. When she still owed $750,000, she sold the farm for $900,000 to a man who paid $150,000 cash and specifically assumed the mortgage note. The bank elected not to exercise its due-on-sale clause. Without informing the man, the bank later released the woman from personal liability. The man eventually defaulted, and after foreclosure the farm sold for $500,000, leaving a $100,000 deficiency.",
+    "question": "Is the man liable for the $100,000 deficiency?",
+    "choices": [
+      "No, because the woman would have been primarily liable but the bank released her.",
+      "No, because the bank's release of the woman also released the man.",
+      "Yes, because the bank's release constituted a clogging of the equity of redemption.",
+      "Yes, because the man's personal liability was not affected by the bank's release of the woman."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. When a buyer assumes a mortgage, the buyer becomes primarily liable on the debt. The original borrower becomes a surety. The bank's release of the surety (the woman) does not release the primarily liable party (the man).",
+      "Incorrect. Releasing a surety does not release the principal debtor. When the man assumed the mortgage, he became the principal debtor with primary liability on the note. The woman's release as surety has no effect on the man's independent obligation.",
+      "Incorrect. Clogging the equity of redemption refers to provisions that prevent a mortgagor from redeeming the property. The bank's release of the woman from personal liability has nothing to do with the equity of redemption.",
+      "Correct. When a buyer specifically assumes a mortgage, the buyer becomes personally liable on the mortgage debt as the principal obligor. The original borrower becomes a surety. The bank's release of the woman (the surety) does not affect the man's personal liability as the assuming party. The man remains liable for the deficiency."
+    ]
+  },
+  {
+    "id": "crm-011",
+    "subject": "Criminal Law",
+    "subtopic": "Conspiracy",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A young man suggested to his friend that they steal a large-screen TV from a neighbor's house. The friend, angry with the young man, decided to use the opportunity to get him arrested. The friend agreed to help and drove the young man to the house. The young man broke in while the friend remained outside and called the police. The friend then drove away. Police arrived as the young man was carrying the TV out. The jurisdiction follows common law definitions.",
+    "question": "Of what crime can the friend properly be convicted?",
+    "choices": [
+      "No crime.",
+      "Conspiracy.",
+      "Burglary.",
+      "Conspiracy and larceny."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. At common law, conspiracy requires a genuine agreement between two or more persons to commit a crime. The friend never genuinely intended to commit the crime \u2014 he feigned agreement solely to get the young man arrested. Because the friend lacked the true intent to agree, there was no conspiracy. And because there was no genuine agreement, the friend cannot be convicted as an accomplice to burglary either, since he did not share the criminal intent.",
+      "Incorrect. Common law conspiracy requires a genuine meeting of the minds. The friend never truly agreed to commit the crime; he intended to have the young man arrested. Under the bilateral approach followed at common law, there can be no conspiracy when one party is merely feigning agreement.",
+      "Incorrect. To be convicted of burglary as an accomplice, the friend would need to have shared the intent to commit the crime. The friend's purpose was to have the young man arrested, not to participate in or facilitate the burglary.",
+      "Incorrect. Neither conspiracy nor larceny can be established because the friend lacked genuine criminal intent for both."
+    ]
+  },
+  {
+    "id": "civ-023",
+    "subject": "Civil Procedure",
+    "subtopic": "Rule 11 Sanctions",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A 50-year-old nurse who was fired told his attorney he was fired because of his age. The attorney filed an age discrimination complaint in federal court. It turned out the hospital had hired a 52-year-old replacement, which rendered the age discrimination claim unavailable. The hospital filed a motion for sanctions against the attorney.",
+    "question": "Is the court likely to grant the sanctions motion?",
+    "choices": [
+      "No, because sanctions are not proper against the attorney of a represented party.",
+      "No, because the hospital failed to give the attorney the chance to withdraw the complaint before filing the motion.",
+      "Yes, because the attorney failed to conduct a reasonable pre-filing inquiry.",
+      "Yes, because the complaint contained legal contentions not warranted by existing law."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Under Rule 11, sanctions may be imposed on attorneys, law firms, or parties. Attorneys are specifically subject to sanctions for filing pleadings without a reasonable basis.",
+      "Correct. Under Rule 11(c)(2), a motion for sanctions must be served on the opposing party but may not be filed with the court until 21 days after service, giving the attorney a safe harbor period to withdraw or correct the challenged filing. The hospital's failure to provide this 21-day safe harbor period before filing the motion with the court is a procedural defect that requires denial of the motion.",
+      "Incorrect. While the attorney arguably should have investigated the facts more thoroughly before filing, the procedural requirement of the 21-day safe harbor period must be satisfied before the court can consider the merits of the sanctions motion.",
+      "Incorrect. While the legal basis for the claim may be questionable given the facts, the sanctions motion must still comply with the safe harbor provision of Rule 11(c)(2)."
+    ]
+  },
+  {
+    "id": "con-010",
+    "subject": "Contracts",
+    "subtopic": "Mental Capacity",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A daughter was appointed guardian of her elderly father after an adjudication of mental incompetence. The father experienced periods of dementia. He later contracted to purchase an automobile at a fair price from a seller unaware of the guardianship. At the time of purchase, the father was lucid and fully understood the transaction.",
+    "question": "What is the legal status of the transaction?",
+    "choices": [
+      "Enforceable, because a reasonable person would have thought the father had capacity.",
+      "Enforceable, because it was made on fair terms and the seller had no knowledge of the guardianship.",
+      "Void, because the father was under guardianship at the time it was made.",
+      "Voidable at the option of the father."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. The reasonableness of the seller's belief about the father's capacity is irrelevant once a court has adjudicated the person as incompetent and appointed a guardian. The adjudication provides conclusive notice of incapacity.",
+      "Incorrect. While fairness of terms and the seller's good faith are relevant in cases where there has been no prior adjudication of incompetence, they do not save a contract made by a person who has been formally adjudicated as mentally incompetent.",
+      "Correct. When a court has adjudicated a person as mentally incompetent and appointed a guardian, any subsequent contract made by that person is void \u2014 not merely voidable. This is true regardless of whether the person was lucid at the time of the transaction and regardless of whether the other party knew about the guardianship. The adjudication conclusively establishes the person's lack of legal capacity to contract.",
+      "Incorrect. Voidable contracts are those made by persons with questionable capacity who have not been formally adjudicated as incompetent. Once a guardian has been appointed following an adjudication, the contract is void, not merely voidable."
+    ]
+  },
+  {
+    "id": "prp-008",
+    "subject": "Real Property",
+    "subtopic": "Future Interests & Adverse Possession",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Twenty-three years ago, a woman deeded land to her son 'and his heirs, so long as the premises are used for residential purposes.' The son used it as his home for 11 years, then conveyed to a friend who immediately used it for commercial purposes for 8 years until her death. The friend's heir took possession and continued commercial use for 4 years. The adverse possession period is 10 years. The woman sued the heir for possession.",
+    "question": "Who will prevail?",
+    "choices": [
+      "The heir, because she has a fee simple absolute.",
+      "The heir, because she has a fee simple determinable.",
+      "The woman, because her cause of action did not begin until the heir inherited.",
+      "The woman, because the friend's interest became uninheritable once she used the land commercially."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. The son received a fee simple determinable, which automatically terminated when the land was used for commercial purposes. At that point, the woman had a right of entry. However, the friend's adverse possession began when she started commercial use 12 years ago. After 10 years of open, notorious, hostile, continuous, and exclusive possession, the friend acquired title by adverse possession. The heir inherited this title and now holds a fee simple absolute.",
+      "Incorrect. The heir does not hold a fee simple determinable. The friend acquired fee simple absolute through adverse possession, which eliminated the condition. The heir inherited this unrestricted title.",
+      "Incorrect. The woman's cause of action accrued when the friend began using the land commercially 12 years ago, triggering the possibility of reverter. The statute of limitations ran against the woman, not starting fresh when the heir inherited.",
+      "Incorrect. There is no rule that a determinable fee becomes uninheritable upon breach of the condition. The friend's possessory interest continued and ripened into fee simple absolute through adverse possession."
+    ]
+  },
+  {
+    "id": "csl-009",
+    "subject": "Constitutional Law",
+    "subtopic": "First Amendment - Free Speech",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A state law prohibits any barbershop licensed by the state from displaying posters supporting current candidates for public office or distributing campaign literature for such candidates. No other posters or literature are restricted, and no other commercial establishments are subject to similar prohibitions.",
+    "question": "Is this law constitutional?",
+    "choices": [
+      "No, because it treats barbershops differently from other commercial establishments.",
+      "No, because it imposes a content-based restriction on speech without evidence that such restriction serves a compelling state interest.",
+      "Yes, because political candidates are free to communicate their messages by other means.",
+      "Yes, because operating a licensed barbershop is a privilege subject to reasonable state restriction."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. While the differential treatment of barbershops raises equal protection concerns, the more fundamental constitutional problem is the content-based restriction on speech, which is subject to strict scrutiny under the First Amendment.",
+      "Correct. The law restricts speech based on its content \u2014 it prohibits only political campaign materials while allowing all other types of posters and literature. Content-based restrictions on speech are presumptively unconstitutional and subject to strict scrutiny. The state must show the restriction is necessary to serve a compelling interest, and there is no evidence that such a compelling interest exists here.",
+      "Incorrect. The availability of alternative channels of communication does not save a content-based restriction from strict scrutiny. The First Amendment protects not only the right to speak but also the right to choose where and how to communicate.",
+      "Incorrect. While states may impose reasonable regulations on licensed businesses, a content-based restriction on political speech goes beyond reasonable regulation. Operating a business does not waive First Amendment rights."
+    ]
+  },
+  {
+    "id": "evi-009",
+    "subject": "Evidence",
+    "subtopic": "Witness Exclusion",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "In a mail fraud prosecution, the defendant moved to exclude all witnesses from the courtroom, and the court granted the motion. The government named the investigating FBI agent as its designated representative. The defendant moved to exclude the agent as well upon learning the agent would testify.",
+    "question": "Should the defendant's motion to exclude the agent be granted?",
+    "choices": [
+      "No, provided the government shows the agent's presence is essential to its case.",
+      "No, because the government has a right to have its designated representative remain throughout trial.",
+      "Yes, because the agent's testimony might be influenced by other witnesses' testimony.",
+      "Yes, because the defendant has a right to exclude all government witnesses."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. The government does not need to show the agent's presence is essential. FRE 615 provides an automatic exemption for a party's designated representative.",
+      "Correct. Under FRE 615, a court may not exclude a person designated as a representative of a party that is not a natural person. The government, as a party, has the right to designate the FBI agent as its representative, and that designation exempts the agent from the witness exclusion order, even if the agent will also testify during the trial.",
+      "Incorrect. While the concern about influence is the rationale behind witness exclusion rules, FRE 615 creates specific exemptions, including for designated party representatives. The government's designated representative cannot be excluded regardless of this concern.",
+      "Incorrect. FRE 615 does not give a defendant an absolute right to exclude all government witnesses. The rule contains specific exemptions, including for party representatives and persons whose presence is essential to the case."
+    ]
+  },
+  {
+    "id": "tor-008",
+    "subject": "Torts",
+    "subtopic": "Negligence - Duty to Act",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A man entered a tavern obviously intoxicated, was refused service, and was escorted out. Just after leaving, the man staggered across the road toward a liquor store and was struck by a car, suffering severe injuries. The man sued the tavern for his injuries.",
+    "question": "How should the court rule on motions for judgment as a matter of law?",
+    "choices": [
+      "Deny both motions and submit to the jury, because the accident was foreseeable.",
+      "Deny both motions and submit to the jury, because a tavern is a place of public accommodation.",
+      "Grant the tavern's motion, because there is no evidence the tavern breached a duty to the man.",
+      "Grant the man's motion, because being ejected put the man at risk."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Foreseeability alone does not establish liability. The tavern must first owe a duty to the man. Here, the tavern acted responsibly by refusing service and escorting the intoxicated man out.",
+      "Incorrect. Public accommodation status imposes certain obligations regarding access and service but does not create a general duty to protect patrons from all foreseeable harm after they leave the premises.",
+      "Correct. The tavern refused to serve the intoxicated man and escorted him out \u2014 exactly what a responsible establishment should do. The tavern did not serve the man alcohol, did not cause his intoxication, and took reasonable steps by removing him from the premises. There is no evidence of any duty breached by the tavern.",
+      "Incorrect. The man was ejected because he was intoxicated, which was the appropriate response. The tavern's duty was to refuse service, which it did. Ejecting an intoxicated patron does not create liability for subsequent injuries."
+    ]
+  },
+  {
+    "id": "civ-024",
+    "subject": "Civil Procedure",
+    "subtopic": "Post-Trial Motions",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A protester sued a police officer for excessive force violating federal civil rights. Eyewitnesses gave conflicting testimony. The court denied the protester's motion for JMOL at the close of evidence. The court then instructed the jury that the burden of proof was clear and convincing evidence instead of the correct preponderance standard. The jury returned a verdict for the officer.",
+    "question": "What is the protester's best option for challenging the judgment?",
+    "choices": [
+      "Seek a new trial, because the jury instruction affected the protester's substantial rights.",
+      "Seek a new trial, because the verdict was against the clear weight of the evidence.",
+      "Seek judgment as a matter of law, because the jury did not have legally sufficient evidence to find for the officer.",
+      "Seek judgment as a matter of law, because the jury's findings were clearly erroneous."
+    ],
+    "correct": [
+      0
+    ],
+    "explanations": [
+      "Correct. Under FRCP 59(a), a new trial may be granted for errors of law that affected a party's substantial rights. Instructing the jury to apply the wrong burden of proof \u2014 clear and convincing evidence instead of preponderance \u2014 is a significant legal error that likely affected the outcome. This is the protester's best option because the error may have caused the jury to find for the officer when it would have found for the protester under the correct, lower standard.",
+      "Incorrect. While a new trial can be granted when the verdict is against the weight of the evidence, the facts state that eyewitnesses gave conflicting testimony, meaning the evidence was disputed. The stronger argument is the erroneous jury instruction.",
+      "Incorrect. JMOL requires that the evidence be legally insufficient for a reasonable jury to find for the prevailing party. With conflicting eyewitness testimony, there was sufficient evidence to support either side. JMOL is not the appropriate remedy here.",
+      "Incorrect. The clearly erroneous standard applies to findings of fact made by a judge in a bench trial, not to jury verdicts. This is not the correct standard for challenging a jury verdict."
+    ]
+  },
+  {
+    "id": "tor-009",
+    "subject": "Torts",
+    "subtopic": "Privacy - Public Disclosure",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "After a hijacking attempt on a commercial flight, TV stations broadcast pictures of passengers disembarking. Among those pictured was a businessman who was supposed to be in Chicago on company business but was actually in New Orleans. The disclosure resulted in loss of his job and great humiliation.",
+    "question": "If the businessman sues the TV stations, is he likely to prevail?",
+    "choices": [
+      "Yes, because his location was revealed against his wishes.",
+      "Yes, because the broadcast caused him pecuniary loss.",
+      "No, because the humiliation did not result in physical harm.",
+      "No, because the scene shown on television was newsworthy."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. While the businessman did not want his location disclosed, the right to privacy does not extend to preventing publication of newsworthy events in which a person is involuntarily involved.",
+      "Incorrect. Pecuniary loss alone does not establish a privacy claim. The broadcast must be found to be an actionable invasion of privacy, and newsworthiness is a complete defense.",
+      "Incorrect. Physical harm is not required for privacy torts. However, the newsworthiness defense defeats the claim regardless.",
+      "Correct. The hijacking attempt was a newsworthy event, and the passengers disembarking were part of that story. The First Amendment protects the media's right to report on matters of legitimate public concern. The businessman's appearance in the broadcast was incidental to the coverage of a newsworthy event, and the media is not liable for the unintended consequences of truthful reporting on public events."
+    ]
+  },
+  {
+    "id": "con-011",
+    "subject": "Contracts",
+    "subtopic": "Modification",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A company contracted with a builder for a $100 million corporate headquarters. Structural steel was a $6 million item. Before work began, tornado damage shut down the biggest steel supplier, increasing steel prices by 20%. The parties orally agreed to increase the price to $101 million. The builder completed on time. The company paid $100 million but refused the additional $1 million.",
+    "question": "If the builder sues for $1 million, will the builder prevail?",
+    "choices": [
+      "No, because the modification was never reduced to a writing signed by the party to be charged.",
+      "No, because there was no consideration for the modification.",
+      "Yes, because the company's promise was supported by consideration.",
+      "Yes, because the modification was fair and equitable in view of the unanticipated steel price increase."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. While the statute of frauds may require certain contracts to be in writing, the modification here was performed by the builder, and part performance can take an oral modification outside the statute of frauds.",
+      "Incorrect. Under the modern approach, consideration is not always required for contract modifications. When unanticipated circumstances arise, courts enforce fair and equitable modifications without additional consideration.",
+      "Incorrect. There is no new consideration from the company \u2014 it merely promised to pay more for the same performance. The modification is enforceable on other grounds.",
+      "Correct. Under Restatement (Second) of Contracts Section 89 and the modern approach, a modification is binding without consideration if it is fair and equitable in view of circumstances not anticipated when the contract was made. The tornado shutting down the major supplier was unanticipated, and the 20% steel price increase justified a fair modification."
+    ]
+  },
+  {
+    "id": "evi-010",
+    "subject": "Evidence",
+    "subtopic": "Prior Inconsistent Statement",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "At a defendant's extortion trial, the prosecutor called a witness expecting her to testify that she heard the defendant threaten a man unless he made payoffs. The witness denied ever hearing such threats, though she had testified to that effect before the grand jury. The prosecutor seeks to admit the grand jury testimony.",
+    "question": "How should the court rule on the grand jury testimony?",
+    "choices": [
+      "Admit it as a statement by a party-opponent.",
+      "Admit it both for impeachment and substantive use, because the statement was made under oath at a formal proceeding.",
+      "Admit it under the former testimony exception to the hearsay rule.",
+      "Exclude it for substantive use because it is a testimonial statement."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. A statement by a party-opponent under FRE 801(d)(2) must be made by or attributable to the opposing party. The witness is not a party to the case, so her statements are not party-opponent statements.",
+      "Correct. Under FRE 801(d)(1)(A), a prior inconsistent statement is not hearsay and is admissible for both impeachment and substantive purposes if the declarant testifies at trial, is subject to cross-examination, and the prior statement was given under oath at a proceeding. The witness's grand jury testimony was given under oath at a formal proceeding. Because she is now testifying at trial and subject to cross-examination, her prior inconsistent grand jury testimony is admissible for all purposes.",
+      "Incorrect. The former testimony exception under FRE 804(b)(1) requires that the declarant be unavailable. Here, the witness is present and testifying, so this exception does not apply.",
+      "Incorrect. While Confrontation Clause concerns apply to testimonial statements in criminal cases, the witness is present and testifying at trial, satisfying the defendant's confrontation rights. The statement is admissible under FRE 801(d)(1)(A)."
+    ]
+  },
+  {
+    "id": "prp-009",
+    "subject": "Real Property",
+    "subtopic": "Fixtures",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "A man had custom wooden shutters installed on his home by drilling screws and brackets into exterior window frames. He later sold the home. The sales agreement did not mention shutters, the buyer did not inquire about them or do a walkthrough. After closing, the buyer discovered the shutters and brackets had been removed and window frames repaired and repainted. The buyer demanded the shutters be returned.",
+    "question": "Is the buyer likely to prevail?",
+    "choices": [
+      "No, because the sales agreement did not mention the shutters.",
+      "No, because the window frames had been repaired after removal.",
+      "Yes, because the shutters had become fixtures.",
+      "Yes, because the warranty deed's covenants were violated by removing the shutters."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Fixtures pass with the sale of real property regardless of whether they are mentioned in the sales agreement. The omission of shutters from the agreement does not reserve them to the seller.",
+      "Incorrect. The fact that the seller repaired and repainted the window frames after removing the shutters does not change the legal analysis of whether the shutters were fixtures that should have conveyed with the property.",
+      "Correct. Under fixture law, items that are attached to real property with the intent of making them a permanent part of the property become fixtures and pass with the sale of the real property. Custom-made shutters installed by drilling screws and brackets into the window frames show both physical annexation and intent to make them permanent. As fixtures, they are part of the real property and convey with the sale regardless of whether the sales agreement mentions them.",
+      "Incorrect. While removing fixtures could arguably violate a warranty deed covenant, the more direct basis for the buyer's claim is that the shutters were fixtures that should have conveyed with the property."
+    ]
+  },
+  {
+    "id": "crm-012",
+    "subject": "Criminal Law",
+    "subtopic": "Homicide - Reckless Murder",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "The president of a pharmaceutical firm received a report that a manufactured lot of anti-cancer medication was well below strength. Concerned about fulfilling contracts, he instructed staff to deliver the defective lot. A cancer patient who had been maintained on the drug died shortly after beginning the defective pills. Medical evidence showed the patient would have lived longer with full-strength drugs but would have died before long anyway. The president was convicted of murder.",
+    "question": "Should the conviction be reversed?",
+    "choices": [
+      "No, because intentional delivery of adulterated drugs gives rise to strict criminal liability.",
+      "No, because the jury could have found the president's conduct was sufficiently reckless to constitute murder.",
+      "Yes, because distribution of the defective lot was only a regulatory offense.",
+      "Yes, because the cancer, not the president's conduct, was the proximate cause of death."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Murder is not a strict liability crime. A murder conviction requires proof of a culpable mental state, not merely the act of delivering adulterated drugs.",
+      "Correct. The president knowingly shipped medication that was below strength to cancer patients who depended on it for survival. This conduct demonstrates an extreme indifference to human life \u2014 the hallmark of depraved-heart or reckless murder. The jury could reasonably find that knowingly providing ineffective medication to terminally ill patients, for whom the drug was life-sustaining, constituted the reckless disregard for human life required for murder.",
+      "Incorrect. While distributing adulterated drugs is a regulatory offense, the president's conduct went far beyond a regulatory violation. Knowingly providing substandard life-sustaining medication to cancer patients demonstrates the extreme recklessness sufficient for murder.",
+      "Incorrect. The president's conduct was a proximate cause of death because it hastened the patient's death. The fact that the patient would have eventually died from cancer does not break the causal chain. Accelerating death is legally sufficient causation for homicide."
+    ]
   }
 ]
