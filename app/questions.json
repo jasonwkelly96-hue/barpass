@@ -757,5 +757,629 @@
       "Incorrect. For pure legal questions.",
       "Incorrect. Harmless error is a conclusion, not a standard."
     ]
+  },
+  {
+    "id": "crm-002",
+    "subject": "Criminal Law",
+    "subtopic": "Mens Rea",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A man took a briefcase from an airport carousel, honestly believing it was his own. The briefcase belonged to another passenger and contained $5,000 in cash. When the man got home and realized the mistake, he decided to keep the briefcase and the money.",
+    "question": "At what point, if any, did the man commit larceny?",
+    "choices": [
+      "When he took the briefcase from the carousel.",
+      "When he realized the briefcase was not his.",
+      "When he decided to keep the briefcase and money.",
+      "He did not commit larceny at any point."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. At the time of taking, the man lacked the intent to steal because he honestly believed the briefcase was his.",
+      "Incorrect. Merely realizing the mistake does not constitute larceny. The crime requires the intent to permanently deprive the owner of the property.",
+      "Correct. Under the continuing trespass doctrine, the original taking was trespassory (even if innocent) because the briefcase belonged to another. When the man later formed the intent to permanently keep it, the mens rea coincided with the ongoing trespass, completing the crime of larceny.",
+      "Incorrect. The continuing trespass doctrine allows the initial wrongful possession to combine with a later-formed intent to permanently deprive."
+    ]
+  },
+  {
+    "id": "crm-003",
+    "subject": "Criminal Law",
+    "subtopic": "Homicide",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A woman was extremely angry at her coworker after a heated argument at work. She drove home, retrieved a baseball bat from her garage, drove back to the office 30 minutes later, and struck the coworker on the head, killing him.",
+    "question": "What is the most serious homicide charge supported by these facts?",
+    "choices": [
+      "Voluntary manslaughter, because the killing was provoked by the argument.",
+      "Voluntary manslaughter, because 30 minutes was insufficient time to cool off.",
+      "First-degree murder, because the woman premeditated and deliberated.",
+      "Second-degree murder, because the killing was intentional but not premeditated."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While the argument may have provoked anger, the woman's actions after the argument show premeditation rather than heat of passion.",
+      "Incorrect. Thirty minutes, driving home, retrieving a weapon, and driving back demonstrate a cooling-off period and deliberate planning, negating the heat of passion defense.",
+      "Correct. The woman's conduct shows premeditation and deliberation: she left the scene, drove home, retrieved a specific weapon, returned, and struck the victim. This sequence demonstrates a deliberate plan formed over time, satisfying the requirements for first-degree murder.",
+      "Incorrect. The evidence strongly supports premeditation. The time gap, weapon retrieval, and return to the scene all indicate deliberation beyond a spontaneous intentional killing."
+    ]
+  },
+  {
+    "id": "crm-004",
+    "subject": "Criminal Law",
+    "subtopic": "Attempt & Conspiracy",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Two men agreed to rob a convenience store. They drew up a plan, purchased ski masks, and drove to the store. When they arrived and saw a police car parked outside, they decided not to go through with the robbery and drove away.",
+    "question": "Can the men be convicted of conspiracy to commit robbery?",
+    "choices": [
+      "No, because they abandoned the plan before committing the robbery.",
+      "No, because the presence of the police car made the robbery impossible.",
+      "Yes, because they agreed to commit the robbery and took overt acts in furtherance of the agreement.",
+      "Yes, but only if they can be shown to have intended to rob a different store instead."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Abandonment is generally not a defense to conspiracy. The crime of conspiracy is complete once there is an agreement and an overt act in furtherance. Unlike attempt, voluntary abandonment does not undo a conspiracy.",
+      "Incorrect. Impossibility is not relevant here. The robbery was not impossible; they simply chose not to proceed. Moreover, factual impossibility is generally not a defense to conspiracy.",
+      "Correct. Conspiracy requires an agreement between two or more persons to commit a crime and an overt act in furtherance of the agreement. Here, the men agreed to rob the store (agreement) and purchased ski masks and drove to the store (overt acts). The conspiracy was complete at that point, regardless of their later decision not to proceed.",
+      "Incorrect. The conspiracy to rob this specific store was already complete. Their intent regarding other stores is irrelevant."
+    ]
+  },
+  {
+    "id": "crm-005",
+    "subject": "Criminal Law",
+    "subtopic": "Self-Defense",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A man was walking home at night when another person approached him with a knife and demanded his wallet. The man, who was carrying a licensed firearm, drew his gun and shot the attacker, killing him. Evidence showed that the attacker's knife was actually a realistic-looking toy knife.",
+    "question": "Is the man likely to succeed with a self-defense claim?",
+    "choices": [
+      "No, because the attacker was not actually armed with a deadly weapon.",
+      "No, because the man used disproportionate force by responding to a knife with a gun.",
+      "Yes, because a reasonable person in the man's position would have believed he faced an imminent threat of death or serious bodily harm.",
+      "Yes, but only if the jurisdiction follows a stand-your-ground law."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Self-defense is evaluated based on the reasonable belief of the defendant at the time of the encounter, not on the actual facts discovered later. The defendant did not know the knife was fake.",
+      "Incorrect. When a person reasonably believes they face a threat of death or serious bodily harm from a knife attack, responding with a firearm is generally considered proportionate force. Deadly force may be met with deadly force.",
+      "Correct. Self-defense requires that the defendant reasonably believed he faced an imminent threat of death or serious bodily harm. A reasonable person confronted at night by someone brandishing what appeared to be a real knife and demanding property would reasonably believe they faced a deadly threat. The fact that the knife was actually a toy is irrelevant to the reasonableness analysis.",
+      "Incorrect. The right to self-defense exists in all jurisdictions when a person faces an imminent threat of death or serious bodily harm and has no reasonable opportunity to retreat (or is in a jurisdiction that does not require retreat). Stand-your-ground laws affect the duty to retreat, not the basic right to defend oneself."
+    ]
+  },
+  {
+    "id": "crm-006",
+    "subject": "Criminal Law",
+    "subtopic": "Accomplice Liability",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A woman drove her friend to a house, knowing her friend intended to burglarize it. The woman waited in the car while the friend entered the house. Inside, the friend unexpectedly encountered the homeowner and assaulted him, causing serious injuries. The friend then stole jewelry and returned to the car.",
+    "question": "For which crimes can the woman be convicted as an accomplice?",
+    "choices": [
+      "Burglary only, because she did not know about or intend the assault.",
+      "Burglary and assault, because the assault was a foreseeable consequence of the burglary.",
+      "Neither burglary nor assault, because she did not enter the house.",
+      "Assault only, because she facilitated her friend's access to the victim."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Under the natural and probable consequences doctrine, an accomplice can be held liable not only for the intended crime but also for any other crime that is a natural and probable consequence of the intended crime.",
+      "Correct. The woman is liable for burglary because she intentionally aided her friend by driving him and waiting as a getaway driver. Under the natural and probable consequences doctrine, she is also liable for the assault because it is a foreseeable consequence that a burglar may encounter and assault an occupant during a burglary.",
+      "Incorrect. Accomplice liability does not require physical presence at the scene of the crime. The woman aided and abetted the burglary by providing transportation and serving as a getaway driver.",
+      "Incorrect. The woman's primary assistance was directed at the burglary, not specifically the assault. She is liable for both under accomplice and natural-and-probable-consequences theories."
+    ]
+  },
+  {
+    "id": "crm-007",
+    "subject": "Criminal Law",
+    "subtopic": "Insanity Defense",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A man suffering from severe delusions believed that his neighbor was an alien who intended to destroy the Earth. Acting on this delusion, the man broke into the neighbor's house and killed him. A psychiatrist testified that the man genuinely believed his actions were necessary to save humanity. The jurisdiction follows the M'Naghten test.",
+    "question": "Is the man likely to be found not guilty by reason of insanity?",
+    "choices": [
+      "No, because he knew he was killing a human being.",
+      "No, because he was able to plan and execute the killing, showing he understood his actions.",
+      "Yes, because he did not know that his act was wrong due to his delusion.",
+      "Yes, because he lacked the specific intent required for murder."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Under M'Naghten, the relevant question is not whether the defendant knew the nature of his act, but whether he knew it was wrong. If his delusion caused him to believe killing was necessary and morally justified to save humanity, he did not understand the wrongfulness of his act.",
+      "Incorrect. The ability to plan does not negate the insanity defense. M'Naghten focuses on whether the defendant knew the nature and quality of the act or knew it was wrong, not on the defendant's capacity for planning.",
+      "Correct. Under the M'Naghten test, a defendant is legally insane if, due to a mental disease or defect, he did not know the nature and quality of his act, or did not know that the act was wrong. Here, the man's genuine delusion caused him to believe killing his neighbor was morally necessary to save humanity. Because he did not understand that his act was wrong, he satisfies the M'Naghten standard.",
+      "Incorrect. The insanity defense is a complete defense that negates criminal responsibility entirely. It does not operate by negating specific intent. The man clearly intended to kill; the question is whether his mental state made him unable to appreciate the wrongfulness of that intent."
+    ]
+  },
+  {
+    "id": "crm-008",
+    "subject": "Criminal Law",
+    "subtopic": "Theft & Robbery",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "A teenager grabbed a woman's purse from her shoulder as she walked down the street. The woman held onto the strap, and the teenager yanked it forcefully, causing the woman to fall and scrape her knee. The teenager ran away with the purse.",
+    "question": "What is the most serious charge supported by these facts?",
+    "choices": [
+      "Larceny, because the teenager took the purse without consent.",
+      "Larceny from the person, because the purse was taken directly from the woman.",
+      "Robbery, because the purse was taken by force from the woman's person.",
+      "Assault and battery, because the woman was injured."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While larceny occurred, the facts support a more serious charge because force was used against a person.",
+      "Incorrect. Larceny from the person is a more serious form of larceny, but the use of force elevates this beyond larceny to robbery.",
+      "Correct. Robbery is larceny from a person accomplished by force or threat of force. The teenager took the purse directly from the woman and used force (yanking the strap, causing her to fall) to accomplish the taking. This satisfies all elements of robbery.",
+      "Incorrect. While assault and battery occurred, robbery encompasses both the taking and the use of force, making it the more serious and comprehensive charge."
+    ]
+  },
+  {
+    "id": "crm-009",
+    "subject": "Criminal Law",
+    "subtopic": "Burglary",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Late at night, a man used a crowbar to break into a closed hardware store. He intended to steal power tools. Once inside, he realized the store had been completely emptied for renovation and there was nothing to steal. He left without taking anything.",
+    "question": "Can the man be convicted of burglary?",
+    "choices": [
+      "No, because he did not actually steal anything.",
+      "No, because the store was empty, making the crime impossible.",
+      "Yes, because he broke into and entered a building with the intent to commit a felony inside.",
+      "Yes, but only of attempted burglary since he did not complete the theft."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Burglary does not require completion of the intended felony. The crime is complete upon breaking and entering with the requisite intent.",
+      "Incorrect. Factual impossibility is not a defense to burglary. The crime was complete when the man broke in with the intent to commit larceny, regardless of whether property was available to steal.",
+      "Correct. Burglary requires the breaking and entering of a building with the intent to commit a felony therein. The man broke into the store with the intent to steal power tools. The crime of burglary was complete at the moment of entry with that intent. Whether he actually stole anything or whether theft was even possible is irrelevant.",
+      "Incorrect. The man committed completed burglary, not merely attempted burglary. Burglary is complete upon entry with felonious intent; it does not require the intended felony to be carried out."
+    ]
+  },
+  {
+    "id": "evi-002",
+    "subject": "Evidence",
+    "subtopic": "Hearsay - Present Sense Impression",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A plaintiff sued a defendant for injuries sustained in a car accident. At trial, the plaintiff called a witness who testified that immediately after the accident, a bystander said, 'That car just ran the red light and hit the other one.' The bystander could not be located for trial. The defendant objected to the witness's testimony as hearsay.",
+    "question": "Should the court admit the testimony?",
+    "choices": [
+      "No, because the bystander is not available to testify and be cross-examined.",
+      "No, because the statement is an inadmissible opinion about fault.",
+      "Yes, as a present sense impression under FRE 803(1).",
+      "Yes, as an excited utterance under FRE 803(2)."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Present sense impressions and excited utterances are exceptions to the hearsay rule that do not require the declarant to be available. The rationale is that the circumstances of the statement provide sufficient guarantees of reliability.",
+      "Incorrect. A statement describing an event as it is perceived is not an inadmissible opinion. Lay witnesses may offer opinions that are rationally based on their perception under FRE 701.",
+      "Correct. A present sense impression under FRE 803(1) is a statement describing an event made while or immediately after the declarant perceived it. The bystander's statement was made immediately after witnessing the accident and described what the bystander saw. It qualifies as a present sense impression regardless of the declarant's availability.",
+      "Incorrect. While the statement might also qualify as an excited utterance, the facts more clearly support a present sense impression because the statement was a calm description made immediately after the event, without evidence of excitement or stress."
+    ]
+  },
+  {
+    "id": "evi-003",
+    "subject": "Evidence",
+    "subtopic": "Character Evidence",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A defendant is on trial for assault. The defendant calls a witness who testifies that the defendant has a reputation in the community as a peaceful, nonviolent person. On cross-examination, the prosecutor asks the witness, 'Have you heard that the defendant was involved in a bar fight two years ago?'",
+    "question": "Is the prosecutor's question proper?",
+    "choices": [
+      "No, because specific instances of conduct cannot be used to prove character.",
+      "No, because the prior bar fight is irrelevant to the current charge.",
+      "Yes, because the question tests the witness's knowledge of the defendant's reputation.",
+      "Yes, because the prior bar fight proves the defendant has a violent character."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While specific instances generally cannot be proved by extrinsic evidence on cross-examination of a character witness, the prosecutor may ask 'have you heard' questions about specific incidents to test the basis of the witness's testimony about reputation.",
+      "Incorrect. The prior bar fight is directly relevant to whether the defendant is actually a peaceful person, which is the character trait the defense put at issue.",
+      "Correct. Under FRE 405(a), when a character witness testifies about reputation, the cross-examiner may inquire into specific instances of conduct to test the witness's knowledge of the defendant's reputation. The 'have you heard' question is the proper form for testing a reputation witness.",
+      "Incorrect. The question is not admitted to prove the defendant's character directly. Its purpose is to test whether the witness truly knows the defendant's reputation. If the witness has not heard about the bar fight, it may suggest the witness is not well-informed about the defendant's reputation."
+    ]
+  },
+  {
+    "id": "evi-004",
+    "subject": "Evidence",
+    "subtopic": "Hearsay - Business Records",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "In a personal injury case, the plaintiff seeks to introduce hospital records documenting her injuries and treatment. The records were created by nurses and doctors during the plaintiff's emergency room visit. The plaintiff called the hospital's records custodian, who testified that the records were made at or near the time of treatment, by personnel with knowledge, and that it was the hospital's regular practice to make such records.",
+    "question": "Are the hospital records admissible?",
+    "choices": [
+      "No, because the records contain hearsay statements by multiple declarants.",
+      "No, because the doctors and nurses who created the records must testify in person.",
+      "Yes, as business records under FRE 803(6).",
+      "Yes, as public records under FRE 803(8)."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. The business records exception specifically allows records containing information from multiple sources, provided each person in the chain was acting in the regular course of business and had a duty to report accurately.",
+      "Incorrect. The business records exception does not require testimony from each person who contributed to the record. The records custodian can lay the foundation by testifying about the record-keeping practices.",
+      "Correct. Under FRE 803(6), a record qualifies as a business record if it was made at or near the time of the event, by someone with knowledge, as a regular practice of the business activity, and is shown by testimony of the custodian. All elements are satisfied here.",
+      "Incorrect. Hospital records are private business records, not public records. FRE 803(8) applies to records of public offices and agencies."
+    ]
+  },
+  {
+    "id": "evi-005",
+    "subject": "Evidence",
+    "subtopic": "Relevance & Prejudice",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "In a murder trial, the prosecution seeks to introduce a gruesome photograph of the victim's body at the crime scene. The defense objects, arguing the photograph is unduly prejudicial. The photograph clearly shows the nature and extent of the injuries, which are relevant to whether the defendant acted with premeditation.",
+    "question": "Should the court admit the photograph?",
+    "choices": [
+      "No, because photographs of dead bodies are always inadmissible as unduly prejudicial.",
+      "No, because the prosecution can describe the injuries through witness testimony instead.",
+      "Yes, because relevant evidence is always admissible.",
+      "Yes, if its probative value is not substantially outweighed by the danger of unfair prejudice."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. There is no categorical rule excluding photographs of victims. Courts evaluate each photograph under the FRE 403 balancing test.",
+      "Incorrect. The availability of alternative proof is one factor in the FRE 403 analysis but does not automatically exclude the photograph. Courts recognize that photographs can convey information more effectively than testimony.",
+      "Incorrect. Under FRE 403, relevant evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice. Relevance alone does not guarantee admissibility.",
+      "Correct. Under FRE 403, the court must balance the photograph's probative value against the danger of unfair prejudice. Because the photograph is relevant to premeditation and the nature of the injuries, it has significant probative value. It should be admitted unless the prejudicial impact substantially outweighs that value."
+    ]
+  },
+  {
+    "id": "evi-006",
+    "subject": "Evidence",
+    "subtopic": "Impeachment",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A witness testified for the plaintiff in a negligence case. On cross-examination, the defendant's attorney asks the witness about a felony fraud conviction from three years ago. The witness denies the conviction. The defendant's attorney then seeks to introduce a certified copy of the judgment of conviction.",
+    "question": "Should the court allow the certified copy of the conviction to be introduced?",
+    "choices": [
+      "No, because the attorney must accept the witness's denial of the conviction.",
+      "No, because the conviction is more than two years old.",
+      "Yes, because a felony conviction is admissible to impeach a witness's credibility.",
+      "Yes, but only if the witness is the party to the lawsuit."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Under FRE 609, when a witness denies a prior conviction, extrinsic evidence such as a certified copy of the judgment may be introduced to prove the conviction. The cross-examiner is not bound by the witness's denial.",
+      "Incorrect. Under FRE 609(b), the ten-year time limit applies to convictions where more than ten years have passed since conviction or release. A three-year-old conviction is well within the admissible timeframe.",
+      "Correct. Under FRE 609(a), evidence of a felony conviction is admissible to attack a witness's credibility. A fraud conviction is particularly probative of untruthfulness. When the witness denies the conviction, extrinsic evidence in the form of a certified judgment is admissible to prove it.",
+      "Incorrect. FRE 609 applies to all witnesses, not just parties. Any witness may be impeached with evidence of a prior felony conviction."
+    ]
+  },
+  {
+    "id": "evi-007",
+    "subject": "Evidence",
+    "subtopic": "Expert Testimony",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "In a medical malpractice case, the plaintiff called an expert witness who is a board-certified cardiologist. The expert testified that the defendant doctor's treatment fell below the standard of care. On cross-examination, the defense attorney asked the expert whether she was familiar with a well-known medical treatise that contradicted her opinion. The expert acknowledged the treatise was authoritative in the field.",
+    "question": "May the defense attorney read passages from the treatise to the jury?",
+    "choices": [
+      "No, because the treatise is hearsay and no exception applies.",
+      "No, because only the expert's own opinion is relevant.",
+      "Yes, and the treatise may also be received as an exhibit.",
+      "Yes, the passages may be read into evidence but the treatise itself is not received as an exhibit."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. Under FRE 803(18), statements in learned treatises are admissible as a hearsay exception when established as reliable authority by the expert's testimony, other expert testimony, or judicial notice.",
+      "Incorrect. Learned treatises are specifically allowed to be used in connection with expert testimony, both on direct and cross-examination, to challenge or support the expert's opinion.",
+      "Incorrect. Under FRE 803(18), while passages from learned treatises may be read into evidence, the treatise itself may not be received as an exhibit. This prevents the jury from giving undue weight to the written text.",
+      "Correct. FRE 803(18) provides that statements in learned treatises may be read into evidence but not received as exhibits. Since the expert acknowledged the treatise as authoritative, the defense may read relevant passages to challenge her opinion."
+    ]
+  },
+  {
+    "id": "csl-002",
+    "subject": "Constitutional Law",
+    "subtopic": "First Amendment - Free Speech",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A city enacted an ordinance prohibiting all signs and banners within 500 feet of any government building. A political activist was arrested for holding a sign protesting government spending while standing on a public sidewalk 300 feet from city hall. The activist challenges the ordinance as a violation of the First Amendment.",
+    "question": "Is the ordinance constitutional?",
+    "choices": [
+      "Yes, because the government has a compelling interest in maintaining the dignity of government buildings.",
+      "Yes, because the ordinance is content-neutral and regulates only the place of speech.",
+      "No, because the ordinance is a content-based restriction on political speech in a public forum.",
+      "No, because it is not narrowly tailored and bans substantially more speech than necessary."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. Even if maintaining dignity is a legitimate interest, the ordinance must still satisfy the appropriate level of scrutiny. A blanket ban on all signs within 500 feet is far broader than necessary to serve that interest.",
+      "Incorrect. While the ordinance appears content-neutral on its face, it must still satisfy intermediate scrutiny as a time, place, and manner restriction. A 500-foot blanket ban on all signs fails because it is not narrowly tailored.",
+      "Incorrect. The ordinance applies to all signs regardless of content, making it content-neutral rather than content-based. However, the conclusion that it is unconstitutional is correct for different reasons.",
+      "Correct. Public sidewalks are traditional public forums where speech receives strong First Amendment protection. Even content-neutral restrictions must be narrowly tailored to serve a significant government interest and leave open ample alternative channels of communication. A 500-foot blanket ban on all signs near government buildings prohibits substantially more speech than necessary and fails the narrow tailoring requirement."
+    ]
+  },
+  {
+    "id": "csl-003",
+    "subject": "Constitutional Law",
+    "subtopic": "Equal Protection",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A state legislature enacted a law providing that only citizens who have resided in the state for at least two years may receive state-funded scholarships for public universities. A student who moved to the state eight months ago and enrolled in a state university challenged the law under the Equal Protection Clause.",
+    "question": "What level of scrutiny will the court apply?",
+    "choices": [
+      "Rational basis review, because education is not a fundamental right.",
+      "Rational basis review, because the classification is based on length of residency, not a suspect class.",
+      "Intermediate scrutiny, because the law affects an important interest in education.",
+      "Strict scrutiny, because the law burdens the fundamental right to interstate travel."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. While education is generally not a fundamental right, the issue here is not the right to education itself but the right to travel. Durational residency requirements implicate the fundamental right to interstate travel.",
+      "Incorrect. Although length of residency is not a suspect classification, the law triggers strict scrutiny because it penalizes people for exercising their fundamental right to travel to and settle in a new state.",
+      "Incorrect. Intermediate scrutiny applies to quasi-suspect classifications such as gender. The fundamental right to travel triggers strict scrutiny, not intermediate scrutiny.",
+      "Correct. Under Shapiro v. Thompson and Saenz v. Roe, durational residency requirements that penalize newcomers to a state implicate the fundamental right to interstate travel and are subject to strict scrutiny. The state must show the law is necessary to achieve a compelling government interest, which a two-year residency requirement for scholarships is unlikely to satisfy."
+    ]
+  },
+  {
+    "id": "csl-004",
+    "subject": "Constitutional Law",
+    "subtopic": "Commerce Clause",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A state enacted a law requiring all milk sold within the state to be processed and pasteurized at facilities located within the state. The stated purpose was to ensure freshness and food safety. Several out-of-state dairy companies that process milk in neighboring states challenged the law.",
+    "question": "Is the state law constitutional under the Commerce Clause?",
+    "choices": [
+      "Yes, because states have broad police power to regulate food safety.",
+      "Yes, because the law applies equally to in-state and out-of-state milk producers.",
+      "No, because the law discriminates against interstate commerce by requiring in-state processing.",
+      "No, because only Congress can regulate the sale of agricultural products."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While states have police power over food safety, that power is limited by the dormant Commerce Clause. A state cannot use food safety as a pretext for economic protectionism.",
+      "Incorrect. Even if the law appears facially neutral, its practical effect is to require all processing to occur in-state, which directly discriminates against out-of-state processors. A law that mandates local processing is discriminatory in effect.",
+      "Correct. Under the dormant Commerce Clause, a state law that discriminates against interstate commerce is virtually per se invalid. Requiring all milk to be processed in-state effectively excludes out-of-state processors from the market and constitutes economic protectionism. The food safety objective can be achieved through less discriminatory means, such as inspection requirements.",
+      "Incorrect. States may regulate agricultural products sold within their borders, subject to Commerce Clause limitations. Congress has not exclusively occupied this field."
+    ]
+  },
+  {
+    "id": "csl-005",
+    "subject": "Constitutional Law",
+    "subtopic": "Separation of Powers",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Congress passed a statute creating a commission to oversee federal election procedures. The statute gave the President the power to appoint two members, the Senate to appoint two members, and the House to appoint two members. The commission was given the power to enforce federal election laws and bring civil enforcement actions.",
+    "question": "Is the commission's structure constitutional?",
+    "choices": [
+      "Yes, because Congress has broad power to regulate federal elections under Article I.",
+      "Yes, because the appointment power is shared equally among the branches.",
+      "No, because officers exercising significant federal authority must be appointed by the President.",
+      "No, because enforcement of laws is a judicial function that cannot be delegated to a commission."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While Congress has power to regulate elections, the Appointments Clause of Article II constrains how officers exercising executive authority are appointed, regardless of the subject matter.",
+      "Incorrect. The Appointments Clause does not permit Congress to appoint officers who exercise significant executive authority. The sharing of appointment power does not cure the constitutional defect.",
+      "Correct. Under Buckley v. Valeo, officers of the United States who exercise significant authority pursuant to federal law must be appointed consistent with the Appointments Clause of Article II. Officers exercising enforcement powers must be appointed by the President with Senate confirmation (principal officers) or by the President, courts, or department heads (inferior officers). Congressional appointment of officers who bring enforcement actions violates the Appointments Clause.",
+      "Incorrect. Enforcement of laws is an executive function, not a judicial one. The issue is not delegation to a commission but rather how the commission members are appointed."
+    ]
+  },
+  {
+    "id": "csl-006",
+    "subject": "Constitutional Law",
+    "subtopic": "Due Process - Substantive",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A state enacted a law prohibiting all persons under the age of 21 from purchasing energy drinks containing more than 200 milligrams of caffeine per serving. The stated purpose was to protect the health of young people. An 18-year-old challenged the law as a violation of substantive due process.",
+    "question": "Is the law likely to be upheld?",
+    "choices": [
+      "No, because adults aged 18-20 have a fundamental right to make their own dietary choices.",
+      "No, because the law is not narrowly tailored to achieve a compelling government interest.",
+      "Yes, because the law satisfies rational basis review since it is rationally related to the legitimate interest of protecting young people's health.",
+      "Yes, because the state has a compelling interest in public health that justifies the restriction."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. There is no recognized fundamental right to purchase specific beverages. Dietary choices are not among the fundamental rights protected by substantive due process.",
+      "Incorrect. Because no fundamental right is implicated, strict scrutiny does not apply, and narrow tailoring is not required.",
+      "Correct. Because no fundamental right or suspect classification is involved, the law is subject to rational basis review. The state need only show that the law is rationally related to a legitimate government interest. Protecting the health of young people from excessive caffeine consumption is a legitimate interest, and banning high-caffeine energy drinks for those under 21 is a rational means of advancing that interest.",
+      "Incorrect. While public health is a legitimate interest, the compelling interest standard applies only under strict scrutiny. Rational basis review requires only a legitimate interest and a rational relationship."
+    ]
+  },
+  {
+    "id": "prp-004",
+    "subject": "Real Property",
+    "subtopic": "Estates in Land",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A grandmother conveyed her farm \"to my granddaughter for life, then to my grandson if he survives my granddaughter.\" The granddaughter is alive. The grandson predeceased the granddaughter.",
+    "question": "Who owns the farm after the granddaughter dies?",
+    "choices": [
+      "The grandson's heirs, because his interest vested at the time of the conveyance.",
+      "The granddaughter's heirs, because the life estate converts to fee simple upon the grandson's death.",
+      "The grandmother or her heirs, because the grandson's contingent remainder was destroyed when he predeceased the granddaughter.",
+      "The state, by escheat, because there is no designated taker."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. The grandson's interest was a contingent remainder because it was subject to the condition of surviving the granddaughter. Because the grandson failed to satisfy the condition, his interest never vested and cannot pass to his heirs.",
+      "Incorrect. A life estate does not convert to a fee simple upon the failure of a remainder. The granddaughter holds only a life estate, which terminates at her death.",
+      "Correct. The grandson held a contingent remainder conditioned on surviving the granddaughter. Because he predeceased her, the condition was not met, and his remainder was destroyed. The property reverts to the grandmother (or her estate/heirs) through a reversion, which the grandmother retained when she created the contingent remainder.",
+      "Incorrect. The property does not escheat because the grandmother retained a reversion. When a contingent remainder fails, the property reverts to the grantor or the grantor's heirs."
+    ]
+  },
+  {
+    "id": "prp-005",
+    "subject": "Real Property",
+    "subtopic": "Covenants & Easements",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A developer sold lots in a residential subdivision. Each deed contained a covenant restricting use to single-family residences. Twenty years later, the surrounding area had become heavily commercial. One lot owner wants to build a convenience store on her lot. The other lot owners seek to enforce the covenant.",
+    "question": "What is the lot owner's best argument against enforcement of the covenant?",
+    "choices": [
+      "The covenant violates the rule against perpetuities.",
+      "The covenant is an unreasonable restraint on alienation.",
+      "Changed conditions in the neighborhood have made the covenant unenforceable.",
+      "The covenant was not recorded and therefore does not bind subsequent purchasers."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Restrictive covenants in subdivision deeds are generally not subject to the rule against perpetuities because they are treated as servitudes that run with the land rather than future interests.",
+      "Incorrect. Residential use restrictions are generally not considered unreasonable restraints on alienation because they regulate use rather than the ability to transfer the property.",
+      "Correct. Under the changed conditions doctrine, a restrictive covenant may become unenforceable if conditions in the neighborhood have changed so substantially that the covenant no longer provides any benefit to the parties it was intended to protect. If the surrounding area has become heavily commercial, enforcing a single-family restriction on one lot may no longer serve the covenant's original purpose.",
+      "Incorrect. The facts state that the covenant was contained in each deed, which constitutes notice to purchasers. Recording is relevant to notice, but inclusion in the deed provides actual notice."
+    ]
+  },
+  {
+    "id": "prp-006",
+    "subject": "Real Property",
+    "subtopic": "Mortgages",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A borrower obtained a mortgage loan to purchase a home. The borrower later sold the home to a buyer who took the property subject to the mortgage but did not assume the mortgage. The borrower stopped making payments and the lender foreclosed on the property.",
+    "question": "Can the lender obtain a deficiency judgment against the buyer?",
+    "choices": [
+      "Yes, because the buyer took the property knowing about the mortgage.",
+      "Yes, because the buyer is in possession of the mortgaged property.",
+      "No, because the buyer did not assume the mortgage and has no personal liability on the debt.",
+      "No, because the lender's only remedy is foreclosure of the property."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Taking property subject to a mortgage means the buyer acknowledges the mortgage exists but does not agree to be personally liable for the debt.",
+      "Incorrect. Possession of mortgaged property does not create personal liability on the underlying debt. The buyer's risk is limited to losing the property through foreclosure.",
+      "Correct. When a buyer takes property subject to a mortgage without assuming it, the buyer has no personal liability on the mortgage debt. The buyer may lose the property to foreclosure, but the lender cannot obtain a deficiency judgment against the buyer. The original borrower remains personally liable on the note.",
+      "Incorrect. Lenders may seek deficiency judgments against those personally liable on the debt, subject to state law limitations. However, only those who have assumed the mortgage or are original borrowers have personal liability."
+    ]
+  },
+  {
+    "id": "bus-001",
+    "subject": "Business Associations",
+    "subtopic": "Fiduciary Duties",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "The CEO of a publicly traded company learned through her position that the company was about to acquire a smaller competitor at a significant premium. Before the acquisition was announced, the CEO purchased 10,000 shares of the smaller company's stock in her personal brokerage account. After the acquisition was announced, the stock price doubled and the CEO sold her shares for a substantial profit.",
+    "question": "Which fiduciary duty did the CEO most clearly violate?",
+    "choices": [
+      "The duty of care, because she failed to exercise reasonable diligence in her personal investments.",
+      "The duty of loyalty, because she used corporate information for personal gain.",
+      "The duty of good faith, because she acted in bad faith by concealing her trades.",
+      "The duty of disclosure, because she failed to inform the board of her purchases."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. The duty of care relates to the diligence and prudence a director or officer exercises in making business decisions on behalf of the corporation. The CEO's personal trades are not a duty of care issue.",
+      "Correct. The duty of loyalty prohibits corporate fiduciaries from using their position, including confidential corporate information, for personal benefit. By trading on material nonpublic information about the pending acquisition, the CEO usurped a corporate opportunity and profited at the expense of the corporation and its shareholders. This is also a violation of insider trading laws.",
+      "Incorrect. While the CEO may have acted in bad faith, the duty of good faith is generally considered a subset of the duty of loyalty rather than a standalone duty. The primary violation is the duty of loyalty.",
+      "Incorrect. While the CEO may have violated disclosure obligations, the duty of disclosure is derivative of the duty of loyalty. The fundamental breach is using corporate information for personal gain."
+    ]
+  },
+  {
+    "id": "bus-002",
+    "subject": "Business Associations",
+    "subtopic": "Piercing the Corporate Veil",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A sole shareholder formed a corporation to operate a demolition business. The shareholder did not maintain separate bank accounts, used corporate funds to pay personal expenses, did not hold corporate meetings or keep minutes, and maintained only the minimum required insurance. A worker was injured on a job site and obtained a judgment against the corporation, but the corporation has insufficient assets to pay the judgment.",
+    "question": "Is a court likely to pierce the corporate veil and hold the shareholder personally liable?",
+    "choices": [
+      "No, because limited liability is the primary purpose of incorporating.",
+      "No, because the shareholder maintained the minimum required insurance.",
+      "Yes, because the shareholder failed to observe corporate formalities and used the corporation as an alter ego.",
+      "Yes, but only because the business is inherently dangerous."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While limited liability is a benefit of incorporation, courts will disregard the corporate form when the shareholder abuses it by failing to maintain the corporation as a separate entity.",
+      "Incorrect. Maintaining minimum insurance is just one factor. The pervasive commingling of funds and failure to observe formalities outweigh this single factor.",
+      "Correct. Courts pierce the corporate veil when the shareholder treats the corporation as an alter ego rather than a separate entity. Key factors include commingling of personal and corporate funds, failure to maintain separate accounts, failure to hold meetings or keep minutes, and undercapitalization. The shareholder here exhibited all of these factors, making veil-piercing appropriate.",
+      "Incorrect. While the dangerous nature of the business may be a factor in some jurisdictions, veil-piercing is based primarily on the shareholder's disregard of the corporate form, not the type of business."
+    ]
+  },
+  {
+    "id": "bus-003",
+    "subject": "Business Associations",
+    "subtopic": "Agency - Authority",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A company's purchasing manager had express authority to buy office supplies up to $5,000 per order. For five years, the manager regularly ordered computer equipment costing up to $15,000 from a particular vendor, and the company always paid the invoices without objection. The manager then placed a $12,000 order for computer equipment from the same vendor. The company's new CEO refused to pay, claiming the manager exceeded her authority.",
+    "question": "Is the company bound by the manager's order?",
+    "choices": [
+      "No, because the manager exceeded her express authority of $5,000.",
+      "No, because the new CEO has the right to change company purchasing policies.",
+      "Yes, because the manager had apparent authority based on the company's prior course of dealing.",
+      "Yes, because the manager had implied authority to buy any equipment needed for the office."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While the manager exceeded her express authority, apparent authority can bind the principal regardless of the agent's actual authority.",
+      "Incorrect. While the CEO can change policies going forward, the company's prior conduct created apparent authority that the vendor reasonably relied upon. The CEO's internal policy change does not retroactively eliminate apparent authority as to third parties who were not notified.",
+      "Correct. Apparent authority exists when the principal's conduct causes a third party to reasonably believe the agent has authority to act. For five years, the company paid invoices for orders exceeding the manager's express authority, creating the reasonable appearance that the manager was authorized to make such purchases. The vendor relied on this pattern, making the company bound by the order.",
+      "Incorrect. Implied authority extends only to acts necessary to carry out express authority. The manager's express authority was limited to $5,000 for office supplies. Computer equipment purchases of $12,000 go beyond what is implied by that authority."
+    ]
+  },
+  {
+    "id": "bus-004",
+    "subject": "Business Associations",
+    "subtopic": "Partnership",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Two friends agreed to open a restaurant together. They did not file any formation documents with the state. They each contributed $50,000 and shared equally in managing the restaurant and splitting the profits. One of the partners, without the other's knowledge, signed a one-year lease for additional restaurant space. The landlord was not aware of any limitation on the partner's authority.",
+    "question": "Is the partnership bound by the lease?",
+    "choices": [
+      "No, because the partnership was never formally created by filing with the state.",
+      "No, because one partner cannot bind the partnership without the other partner's consent.",
+      "Yes, because each partner is an agent of the partnership for carrying on partnership business.",
+      "Yes, but only if the lease is beneficial to the partnership."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. A partnership can be formed without filing any documents. Under the Uniform Partnership Act, a partnership is created when two or more persons carry on a business for profit as co-owners, which these friends clearly did.",
+      "Incorrect. Under the UPA, each partner has the authority to bind the partnership in the ordinary course of business. Signing a lease for restaurant space is within the ordinary course of a restaurant business, and the landlord had no notice of any limitation on the partner's authority.",
+      "Correct. Under the UPA, every partner is an agent of the partnership for the purpose of its business. The act of any partner for apparently carrying on in the ordinary course the partnership business binds the partnership, unless the partner had no authority and the third party knew of the lack of authority. Leasing additional restaurant space is within the ordinary course of a restaurant business.",
+      "Incorrect. The partnership is bound regardless of whether the lease turns out to be beneficial. The test is whether the act was within the ordinary course of business and whether the third party had notice of any authority limitation."
+    ]
   }
 ]
