@@ -1885,5 +1885,533 @@
       "Incorrect. While distributing adulterated drugs is a regulatory offense, the president's conduct went far beyond a regulatory violation. Knowingly providing substandard life-sustaining medication to cancer patients demonstrates the extreme recklessness sufficient for murder.",
       "Incorrect. The president's conduct was a proximate cause of death because it hastened the patient's death. The fact that the patient would have eventually died from cancer does not break the causal chain. Accelerating death is legally sufficient causation for homicide."
     ]
+  },
+  {
+    "id": "bus-005",
+    "subject": "Business Associations",
+    "subtopic": "Shareholder Rights",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A minority shareholder owning 5% of a corporation's stock believes the CEO has been diverting company funds for personal use. The shareholder demanded that the board of directors investigate the matter and take legal action against the CEO. The board, after a brief meeting, declined to pursue the matter. The shareholder now wants to file a lawsuit on behalf of the corporation against the CEO.",
+    "question": "What must the shareholder do before filing this lawsuit?",
+    "choices": [
+      "Nothing further, because the board's refusal is itself a breach of fiduciary duty.",
+      "File a direct action against the CEO for the shareholder's personal losses.",
+      "File a derivative action after demonstrating that the demand on the board was wrongfully refused.",
+      "File a class action on behalf of all minority shareholders."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. The board's refusal to act does not automatically constitute a breach of fiduciary duty. The shareholder must challenge the refusal through the proper procedural mechanism.",
+      "Incorrect. The harm alleged is to the corporation, not to the shareholder personally. When a corporate officer diverts company funds, the injury runs to the corporation, requiring a derivative action rather than a direct action.",
+      "Correct. A shareholder derivative action requires the shareholder to first make a demand on the board to take action. If the board refuses, the shareholder must demonstrate that the board's refusal was wrongful \u2014 meaning the board's decision was not protected by the business judgment rule because of conflicts of interest, lack of good faith, or failure to adequately investigate.",
+      "Incorrect. A class action is appropriate when shareholders share a common individual injury. Here, the injury is to the corporation itself, making a derivative action the proper vehicle."
+    ]
+  },
+  {
+    "id": "bus-006",
+    "subject": "Business Associations",
+    "subtopic": "LLC",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Three individuals formed a limited liability company to operate a consulting business. They did not create a written operating agreement. One member, without consulting the others, signed a two-year office lease on behalf of the LLC. The other two members object to the lease and claim it is not binding on the LLC.",
+    "question": "Is the LLC bound by the lease?",
+    "choices": [
+      "No, because the member did not have unanimous consent from all members.",
+      "No, because without a written operating agreement, no member has authority to bind the LLC.",
+      "Yes, because in a member-managed LLC, each member has apparent authority to bind the LLC in ordinary business matters.",
+      "Yes, but only if the landlord knew the LLC had three members."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While the operating agreement or statute may require majority or unanimous consent for certain decisions, the question of whether the LLC is bound to third parties depends on the member's apparent authority, not just internal approval requirements.",
+      "Incorrect. The absence of a written operating agreement does not eliminate members' authority to bind the LLC. Default statutory rules govern when there is no operating agreement, and these typically grant each member authority in a member-managed LLC.",
+      "Correct. Under the default rules of most LLC statutes, when there is no operating agreement specifying otherwise, the LLC is member-managed and each member has apparent authority to bind the LLC in the ordinary course of business. Signing an office lease for a consulting business is within the ordinary course. The landlord is entitled to rely on this apparent authority.",
+      "Incorrect. The landlord's knowledge of how many members the LLC has is irrelevant. What matters is whether the member had apparent authority to act on behalf of the LLC in the ordinary course of business."
+    ]
+  },
+  {
+    "id": "bus-007",
+    "subject": "Business Associations",
+    "subtopic": "Formation & Liability",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "Two business partners decided to incorporate their business. They drafted articles of incorporation and had them notarized but forgot to file them with the state. They began operating the business as a corporation, issuing stock certificates and holding board meetings. A supplier who contracted with the business and was told it was a corporation now seeks to hold the partners personally liable for an unpaid debt.",
+    "question": "Are the partners personally liable for the debt?",
+    "choices": [
+      "No, because they made a good-faith effort to incorporate and operated as a corporation.",
+      "No, because the supplier dealt with them as a corporation and is estopped from denying corporate status.",
+      "Yes, because a corporation does not exist until articles of incorporation are filed with the state.",
+      "Yes, but only if the supplier can prove the partners intended to defraud creditors."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Under modern statutes like the MBCA, the de facto corporation doctrine has been largely abolished. A corporation exists only upon filing articles of incorporation with the state. Good faith efforts are insufficient.",
+      "Incorrect. While corporation by estoppel was recognized at common law, most modern statutes require actual filing as the exclusive means of creating a corporation. The supplier's belief does not create a corporation.",
+      "Correct. Under the MBCA and most modern incorporation statutes, corporate existence begins only when the articles of incorporation are filed with the state. Without filing, no corporation exists, and those who conduct business as if incorporated are personally liable for the obligations incurred. The failure to file is not excused by good faith or by the other party's belief that a corporation exists.",
+      "Incorrect. Intent to defraud is not required. The partners are personally liable simply because no corporation was legally formed. The absence of a filed charter means they were operating as a general partnership, with personal liability for business debts."
+    ]
+  },
+  {
+    "id": "bus-008",
+    "subject": "Business Associations",
+    "subtopic": "Fiduciary Duties",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "The board of directors of a corporation approved a merger with another company after receiving a presentation from the CEO. The board did not hire an independent financial advisor, did not review comparable transactions, and approved the merger in a single 20-minute meeting. A shareholder sued the directors claiming the merger price was too low and that the board breached its fiduciary duties.",
+    "question": "Did the board breach its duty of care?",
+    "choices": [
+      "No, because the business judgment rule protects all board decisions from judicial review.",
+      "No, because the board relied on the CEO's recommendation in good faith.",
+      "Yes, because the board failed to adequately inform itself before making the decision.",
+      "Yes, because the merger price was too low."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. The business judgment rule presumes that directors acted on an informed basis, in good faith, and in the honest belief the action was in the corporation's best interest. However, this presumption can be rebutted by showing the directors were grossly negligent in informing themselves.",
+      "Incorrect. While directors may rely on officers' reports under certain circumstances, the duty of care requires directors to actively inform themselves. Approving a major transaction like a merger based solely on a CEO presentation, without independent analysis or adequate deliberation, does not satisfy this duty.",
+      "Correct. Under Smith v. Van Gorkom and its progeny, the duty of care requires directors to inform themselves of all material information reasonably available before making a business decision. Approving a merger without an independent financial advisor, without reviewing comparable transactions, and after only a 20-minute meeting demonstrates gross negligence in the decision-making process, breaching the duty of care.",
+      "Incorrect. The adequacy of the merger price is relevant but is not the standard for determining whether the board breached its duty of care. The breach lies in the inadequate process the board followed, not necessarily in the outcome."
+    ]
+  },
+  {
+    "id": "bus-009",
+    "subject": "Business Associations",
+    "subtopic": "Agency - Liability",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A delivery driver working for a catering company was making a delivery in the company van when he decided to detour five miles from his route to visit a friend. While on the detour, the driver negligently caused an accident that injured a pedestrian. After visiting the friend, the driver was driving back toward his delivery route when the pedestrian filed suit against both the driver and the catering company.",
+    "question": "Is the catering company vicariously liable for the pedestrian's injuries?",
+    "choices": [
+      "Yes, because the driver was using the company van at the time of the accident.",
+      "Yes, because the driver was still within the scope of employment since he intended to return to his route.",
+      "No, because the driver was on a frolic of his own when the accident occurred.",
+      "No, because the driver was an independent contractor, not an employee."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Mere use of a company vehicle does not automatically make the employer vicariously liable. The key question is whether the employee was acting within the scope of employment at the time of the negligent act.",
+      "Incorrect. The driver's intent to return to his route does not retroactively bring the detour within the scope of employment. The accident occurred during the detour, before the driver had returned to the employer's business.",
+      "Correct. Under respondeat superior, an employer is vicariously liable for torts committed by an employee acting within the scope of employment. A substantial deviation from the employer's business for personal reasons constitutes a frolic, taking the employee outside the scope of employment. A five-mile detour to visit a friend is a significant departure from the delivery route and constitutes a frolic rather than a minor detour.",
+      "Incorrect. The facts describe the driver as working for the company and using a company van for deliveries, indicating an employment relationship rather than an independent contractor arrangement."
+    ]
+  },
+  {
+    "id": "bus-010",
+    "subject": "Business Associations",
+    "subtopic": "Piercing the Corporate Veil",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A woman formed a corporation to operate a small restaurant. She was the sole shareholder and maintained proper corporate records, held annual meetings, and kept corporate and personal finances completely separate. However, she only capitalized the corporation with $500, which was far below the amount needed to cover the foreseeable risks of operating a restaurant. A customer who was injured by food poisoning obtained a judgment against the corporation, but it had insufficient assets to pay.",
+    "question": "Is a court likely to pierce the corporate veil?",
+    "choices": [
+      "No, because the shareholder observed all corporate formalities.",
+      "No, because undercapitalization alone is never sufficient to pierce the corporate veil.",
+      "Yes, because the corporation was inadequately capitalized to cover the foreseeable risks of the business.",
+      "Yes, because a sole shareholder is always personally liable for corporate debts."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While observing corporate formalities is important, it is not the only factor courts consider. Adequate capitalization is also a significant factor in the veil-piercing analysis.",
+      "Incorrect. While undercapitalization alone may not be sufficient in all jurisdictions, many courts consider grossly inadequate capitalization as a strong factor favoring veil-piercing, particularly when the business poses foreseeable risks of harm to third parties.",
+      "Correct. Undercapitalization is a significant factor in veil-piercing analysis. When a corporation is capitalized with an amount grossly inadequate to cover the foreseeable risks of its business operations, courts may pierce the veil even when other corporate formalities are observed. Operating a restaurant with only $500 in capital exposes customers and creditors to unreasonable risk.",
+      "Incorrect. Sole shareholders are not automatically personally liable. The corporate form provides limited liability even for sole shareholders, provided the corporate form is respected and the corporation is adequately capitalized."
+    ]
+  },
+  {
+    "id": "bus-011",
+    "subject": "Business Associations",
+    "subtopic": "Partnership",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Two partners operated an accounting firm as a general partnership. One partner, without the other's knowledge, guaranteed a $200,000 personal loan for his brother using the partnership's name and assets as collateral. The brother defaulted, and the lender seeks to collect from the partnership.",
+    "question": "Is the partnership liable on the guarantee?",
+    "choices": [
+      "Yes, because partners have unlimited authority to bind the partnership.",
+      "Yes, because the lender relied on the partner's apparent authority.",
+      "No, because guaranteeing a personal loan for a relative is not in the ordinary course of an accounting firm's business.",
+      "No, because one partner cannot bind the partnership without unanimous consent."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Partners do not have unlimited authority to bind the partnership. Their authority is limited to acts that are for apparently carrying on the partnership business in the ordinary course.",
+      "Incorrect. Apparent authority must relate to acts within the ordinary course of the partnership's business. A lender cannot reasonably believe that an accounting partner has authority to guarantee personal loans for relatives, as this is clearly outside the scope of an accounting business.",
+      "Correct. Under the UPA, a partner's act binds the partnership only if it is for apparently carrying on the partnership business in the ordinary course. Guaranteeing a personal loan for a partner's relative has nothing to do with accounting services and is clearly outside the ordinary course of the partnership's business. The partnership is not bound.",
+      "Incorrect. Unanimous consent is not required for all partnership acts. Partners can bind the partnership without the other partners' consent when acting within the ordinary course of business. The issue here is that this act was outside the ordinary course."
+    ]
+  },
+  {
+    "id": "bus-012",
+    "subject": "Business Associations",
+    "subtopic": "Shareholder Rights",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A shareholder of a closely held corporation requested to inspect the corporation's books and records. The shareholder stated that the purpose of the inspection was to determine whether the directors had been properly managing the corporation and to assess the value of her shares. The corporation refused the request, claiming the shareholder had no right to inspect because she owned only 3% of the shares.",
+    "question": "Is the shareholder entitled to inspect the books and records?",
+    "choices": [
+      "No, because she owns less than 5% of the corporation's shares.",
+      "No, because assessing share value is not a proper purpose for inspection.",
+      "Yes, because any shareholder has an absolute right to inspect corporate books and records.",
+      "Yes, because she stated a proper purpose for the inspection."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. Most corporate statutes do not impose a minimum ownership threshold for the right to inspect books and records. Any shareholder who states a proper purpose may exercise this right.",
+      "Incorrect. Investigating potential mismanagement and determining the value of one's shares are both recognized as proper purposes for inspecting corporate books and records.",
+      "Incorrect. The right to inspect is not absolute. The shareholder must state a proper purpose related to her interest as a shareholder. However, the purposes stated here qualify.",
+      "Correct. Under the MBCA and most state statutes, any shareholder has the right to inspect corporate books and records if the demand is made in good faith and for a proper purpose. Investigating whether directors are properly managing the corporation and assessing the value of one's shares are both well-established proper purposes. The corporation cannot refuse based on the shareholder's ownership percentage."
+    ]
+  },
+  {
+    "id": "tor-010",
+    "subject": "Torts",
+    "subtopic": "Negligence - Proximate Cause",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A homeowner negligently left a loaded gun on his kitchen table. A burglar broke into the house, found the gun, and used it to rob a convenience store two miles away, shooting and injuring the store clerk during the robbery.",
+    "question": "If the clerk sues the homeowner for negligence, is the homeowner likely liable?",
+    "choices": [
+      "Yes, because leaving a loaded gun accessible was negligent.",
+      "Yes, because the homeowner should have foreseen that a criminal might use the gun.",
+      "No, because the burglar's criminal act was a superseding cause that breaks the chain of causation.",
+      "No, because the homeowner owed no duty to the store clerk."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While leaving a gun accessible may be negligent, negligence alone is insufficient for liability. The homeowner must also be the proximate cause of the clerk's injuries.",
+      "Incorrect. While some criminal misuse of a gun might be foreseeable, the burglar's independent decision to commit a robbery at a separate location is sufficiently attenuated and extraordinary to break the causal chain.",
+      "Correct. A superseding cause is an unforeseeable intervening act that breaks the chain of proximate causation. While the homeowner was negligent in leaving the gun out, the burglar's independent criminal decision to take the gun and use it to commit a robbery at a distant location is an extraordinary criminal act that constitutes a superseding cause. The homeowner's negligence was not the proximate cause of the clerk's injuries.",
+      "Incorrect. A duty analysis is relevant, but the better reasoning focuses on proximate cause. Even if a duty existed, the superseding criminal act breaks causation."
+    ]
+  },
+  {
+    "id": "tor-011",
+    "subject": "Torts",
+    "subtopic": "Negligence - Negligence Per Se",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A state statute requires all commercial trucks to be equipped with underride guards to prevent smaller vehicles from sliding beneath the truck in a collision. A trucking company failed to install the required guards on one of its trucks. A motorcyclist collided with the rear of the truck and slid beneath it, suffering fatal injuries. The motorcyclist's estate sued the trucking company.",
+    "question": "What is the effect of the trucking company's statutory violation?",
+    "choices": [
+      "It creates strict liability for any injuries resulting from the violation.",
+      "It establishes a conclusive presumption of negligence that cannot be rebutted.",
+      "It establishes negligence per se if the motorcyclist is within the class of persons the statute was designed to protect.",
+      "It is merely evidence of negligence that the jury may consider."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Violation of a safety statute does not create strict liability. Negligence per se still requires proof of causation and damages, and the defendant may raise certain defenses.",
+      "Incorrect. In most jurisdictions, negligence per se creates a rebuttable presumption of negligence, not a conclusive one. The defendant may still argue that the violation was excused under certain circumstances.",
+      "Correct. Under the negligence per se doctrine, violation of a statute establishes the duty and breach elements of negligence when the plaintiff is within the class of persons the statute was designed to protect and the harm suffered is the type the statute was designed to prevent. Underride guard statutes are designed to protect occupants of smaller vehicles from sliding under trucks \u2014 exactly what happened to the motorcyclist.",
+      "Incorrect. In most jurisdictions, violation of a safety statute goes beyond being merely evidence of negligence. It establishes negligence per se when the statutory requirements are met, which they are here."
+    ]
+  },
+  {
+    "id": "tor-012",
+    "subject": "Torts",
+    "subtopic": "Strict Liability - Animals",
+    "difficulty": 1,
+    "selectCount": 1,
+    "stem": "A farmer kept a bull in a securely fenced pasture. Despite the secure fencing, the bull broke through the fence during a thunderstorm and wandered onto a neighboring property, where it trampled and destroyed the neighbor's garden. The farmer had no prior knowledge that the bull had a tendency to break through fences.",
+    "question": "Is the farmer liable for the damage to the neighbor's garden?",
+    "choices": [
+      "No, because the farmer took reasonable precautions by securely fencing the pasture.",
+      "No, because the farmer had no prior knowledge of the bull's tendency to escape.",
+      "Yes, because the farmer is strictly liable for trespass by livestock.",
+      "Yes, but only if the farmer was negligent in maintaining the fence."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Under strict liability for trespassing livestock, the reasonableness of the owner's precautions is irrelevant. Liability does not depend on fault.",
+      "Incorrect. Unlike the rule for dangerous animals, strict liability for trespassing livestock does not require prior knowledge of dangerous propensities. The liability arises from the trespass itself.",
+      "Correct. Under the common law rule, a possessor of livestock is strictly liable for damage caused when the animals trespass on another's land. This liability applies regardless of the precautions taken and regardless of whether the owner knew the animals might escape. The farmer is liable for the damage to the garden caused by the trespassing bull.",
+      "Incorrect. Strict liability for trespassing livestock does not require proof of negligence. The farmer's liability does not depend on whether the fence was properly maintained."
+    ]
+  },
+  {
+    "id": "tor-013",
+    "subject": "Torts",
+    "subtopic": "Intentional Torts - False Imprisonment",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A store security guard suspected a customer of shoplifting. The guard approached the customer near the exit and asked her to come to a back office to discuss a matter. The customer, who had not stolen anything, felt she had no choice but to comply because the guard was physically imposing and blocked the exit. The guard questioned her for 45 minutes before determining she had not stolen anything and allowing her to leave.",
+    "question": "Does the customer have a valid claim for false imprisonment?",
+    "choices": [
+      "No, because the guard did not physically restrain the customer.",
+      "No, because the store had a reasonable suspicion of shoplifting.",
+      "Yes, because the customer was confined against her will through implied threat of force.",
+      "Yes, but only if the customer suffered physical injury during the detention."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. False imprisonment does not require physical restraint. Confinement can be accomplished through physical barriers, threats of force, or other forms of duress that cause the plaintiff to reasonably believe they cannot leave.",
+      "Incorrect. While the shopkeeper's privilege allows merchants to detain suspected shoplifters, the detention must be conducted in a reasonable manner and for a reasonable time. A 45-minute interrogation may exceed the bounds of the privilege, and the manner of detention through intimidation may be unreasonable.",
+      "Correct. False imprisonment requires intentional confinement of another person without consent and without legal authority. The customer was confined through implied threat \u2014 the guard's physically imposing presence, blocking the exit, and directing her to the back office created a reasonable belief that she was not free to leave. The 45-minute detention further supports the claim.",
+      "Incorrect. False imprisonment does not require physical injury. The tort protects the right to freedom of movement, and damages are recoverable for the confinement itself, including mental distress and humiliation."
+    ]
+  },
+  {
+    "id": "tor-014",
+    "subject": "Torts",
+    "subtopic": "Negligence - Vicarious Liability",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A hospital employed a surgeon as a full-time staff physician. During an operation, the surgeon negligently left a surgical sponge inside the patient, requiring a second surgery to remove it. The patient sued the hospital for the surgeon's negligence.",
+    "question": "Is the hospital vicariously liable for the surgeon's negligence?",
+    "choices": [
+      "No, because surgeons exercise independent medical judgment and are therefore independent contractors.",
+      "No, because hospitals cannot practice medicine and therefore cannot be liable for medical malpractice.",
+      "Yes, because the hospital is vicariously liable under respondeat superior for the negligence of its employee.",
+      "Yes, but only if the hospital was independently negligent in hiring or supervising the surgeon."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. While surgeons exercise independent medical judgment, a surgeon employed as a full-time staff physician is an employee, not an independent contractor. The control test focuses on the overall employment relationship, not just control over specific medical decisions.",
+      "Incorrect. The corporate practice of medicine doctrine does not shield hospitals from vicarious liability. Hospitals that employ physicians are liable under respondeat superior for the negligent acts of those physicians committed within the scope of employment.",
+      "Correct. Under respondeat superior, an employer is vicariously liable for the torts of its employees committed within the scope of employment. The surgeon was a full-time employee of the hospital, and the negligence occurred during a surgical procedure \u2014 clearly within the scope of employment. The hospital is liable regardless of whether it was independently negligent.",
+      "Incorrect. Vicarious liability under respondeat superior does not require independent negligence by the employer. The hospital is liable simply because the surgeon was its employee acting within the scope of employment."
+    ]
+  },
+  {
+    "id": "csl-010",
+    "subject": "Constitutional Law",
+    "subtopic": "First Amendment - Religion",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A state passed a law banning the ritual slaughter of animals within city limits. The law was passed after members of a religious group that practices animal sacrifice moved into the community. The law exempted commercial slaughterhouses and hunting. Members of the religious group challenged the law as a violation of the Free Exercise Clause.",
+    "question": "Is the law constitutional?",
+    "choices": [
+      "Yes, because the state has a compelling interest in preventing animal cruelty.",
+      "Yes, because the law is a neutral law of general applicability.",
+      "No, because the law targets religious practice and is not neutral or generally applicable.",
+      "No, because the Free Exercise Clause prohibits all laws that burden religious practice."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Even if preventing animal cruelty is a compelling interest, the law is underinclusive because it exempts secular forms of animal killing (commercial slaughter and hunting) while targeting only religious killing. This underinclusiveness demonstrates that the law is not genuinely aimed at animal cruelty.",
+      "Incorrect. The law is neither neutral nor generally applicable. By exempting commercial slaughterhouses and hunting while banning only ritual slaughter, the law specifically targets religiously motivated conduct. Under Church of Lukumi Babalu Aye v. Hialeah, such a law is subject to strict scrutiny.",
+      "Correct. Under Church of Lukumi Babalu Aye v. Hialeah, a law that targets religiously motivated conduct is not neutral or generally applicable and must satisfy strict scrutiny. This law was passed in response to a specific religious group's practices and exempts secular animal killing while prohibiting only religious animal sacrifice. It fails strict scrutiny because the exemptions show the law is designed to suppress religious practice rather than to serve a genuine governmental interest uniformly.",
+      "Incorrect. Under Employment Division v. Smith, neutral laws of general applicability that incidentally burden religious practice are constitutional. The Free Exercise Clause does not prohibit all laws burdening religion \u2014 only those that specifically target religious practice."
+    ]
+  },
+  {
+    "id": "csl-011",
+    "subject": "Constitutional Law",
+    "subtopic": "State Action",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A private country club refused to admit a family as members because of their race. The family sued the club, claiming the refusal violated the Equal Protection Clause of the Fourteenth Amendment. The club receives no government funding, but it does hold a state-issued liquor license.",
+    "question": "Is the club's refusal subject to the Equal Protection Clause?",
+    "choices": [
+      "Yes, because racial discrimination violates the Equal Protection Clause regardless of whether the actor is public or private.",
+      "Yes, because the state liquor license makes the club's actions state action.",
+      "No, because the Equal Protection Clause applies only to government action, and the club is a private entity.",
+      "No, because private clubs have an absolute right to choose their members."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. The Equal Protection Clause of the Fourteenth Amendment restricts only government action, not private conduct. Private discrimination may be addressed by civil rights statutes but not directly by the Equal Protection Clause.",
+      "Incorrect. Merely holding a state-issued license does not transform a private entity's conduct into state action. Under Moose Lodge v. Irvis, the grant of a liquor license alone does not create sufficient entanglement between the state and the private club to constitute state action.",
+      "Correct. The Equal Protection Clause applies only to state action. A private country club is not a state actor, and receiving a standard state liquor license does not convert its decisions into government action. Without significant government involvement, entanglement, or the exercise of a traditionally public function, the club's membership decisions are private conduct not subject to the Fourteenth Amendment.",
+      "Incorrect. While private clubs have associational rights, those rights are not absolute. Private clubs may be subject to anti-discrimination laws enacted by legislatures. However, the specific question here is whether the Equal Protection Clause applies, and it does not because there is no state action."
+    ]
+  },
+  {
+    "id": "csl-012",
+    "subject": "Constitutional Law",
+    "subtopic": "Takings Clause",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "A city enacted a zoning ordinance that prohibited all commercial development on a parcel of undeveloped beachfront property in order to preserve the natural habitat. The property owner had purchased the land for $2 million with plans to build a hotel. Under the new ordinance, the land's value dropped to $50,000 because the only permitted use was passive recreation.",
+    "question": "Has a taking occurred requiring just compensation?",
+    "choices": [
+      "No, because the government did not physically occupy the property.",
+      "No, because the ordinance serves a legitimate public purpose of environmental protection.",
+      "Yes, because the regulation has denied the owner all economically beneficial use of the property.",
+      "Yes, because the property decreased in value by more than 50%."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. A taking does not require physical occupation. Under Lucas v. South Carolina Coastal Council, a regulatory taking occurs when a regulation deprives an owner of all economically beneficial use of property.",
+      "Incorrect. While environmental protection is a legitimate purpose, a regulation that eliminates all economically beneficial use constitutes a taking regardless of the public purpose served. The government must pay just compensation even when regulating for valid purposes.",
+      "Correct. Under Lucas v. South Carolina Coastal Council, a regulation that deprives an owner of all economically beneficial use of property constitutes a per se taking requiring just compensation. The ordinance reduced the property's value from $2 million to $50,000 and eliminated all development rights, leaving only passive recreation. This constitutes a total deprivation of economically beneficial use.",
+      "Incorrect. There is no bright-line percentage test for regulatory takings. Under Penn Central, courts consider the economic impact, the investment-backed expectations, and the character of the government action. However, the facts here more clearly support a per se taking under Lucas because virtually all economic value was destroyed."
+    ]
+  },
+  {
+    "id": "csl-013",
+    "subject": "Constitutional Law",
+    "subtopic": "Due Process - Procedural",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A public school student was suspended for 10 days for allegedly fighting in the cafeteria. The principal made the decision based solely on a report from a teacher who witnessed the incident. The student was not given any opportunity to tell his side of the story before the suspension was imposed. The student's parents challenged the suspension as a violation of procedural due process.",
+    "question": "Did the school violate the student's procedural due process rights?",
+    "choices": [
+      "No, because students have no property interest in public education.",
+      "No, because a 10-day suspension is too brief to trigger due process protections.",
+      "Yes, because the student was entitled to a full adversarial hearing before an impartial tribunal before the suspension.",
+      "Yes, because the student was entitled to notice of the charges and an opportunity to be heard before the suspension."
+    ],
+    "correct": [
+      3
+    ],
+    "explanations": [
+      "Incorrect. Under Goss v. Lopez, students have a property interest in public education created by state law. This interest is protected by the Due Process Clause.",
+      "Incorrect. Under Goss v. Lopez, even a suspension of 10 days or fewer triggers due process protections because of the student's property interest in education and liberty interest in reputation.",
+      "Incorrect. A full adversarial hearing is not required for a short suspension. Under Goss v. Lopez, the process due for suspensions of 10 days or fewer requires only minimal procedures.",
+      "Correct. Under Goss v. Lopez, a student facing suspension of 10 days or fewer is entitled to oral or written notice of the charges, an explanation of the evidence, and an opportunity to present the student's side of the story. The school violated due process by suspending the student based solely on a teacher's report without giving the student any opportunity to respond."
+    ]
+  },
+  {
+    "id": "tor-015",
+    "subject": "Torts",
+    "subtopic": "Negligence - Emotional Distress",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A mother watched from across the street as a speeding car struck and killed her young child in a crosswalk. She was never in physical danger but suffered severe emotional trauma and PTSD.",
+    "question": "Can the mother recover for negligent infliction of emotional distress?",
+    "choices": [
+      "No, not in zone of danger.",
+      "No, emotional distress without impact is never compensable.",
+      "Yes, close family member who contemporaneously witnessed the event.",
+      "Yes, but only with physical injury."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Many jurisdictions use the bystander test, not zone of danger.",
+      "Incorrect. Bystander recovery is widely recognized.",
+      "Correct. Under the bystander rule, a closely related plaintiff who contemporaneously witnesses the injury may recover for serious emotional distress.",
+      "Incorrect. Physical injury not required under bystander test."
+    ]
+  },
+  {
+    "id": "con-012",
+    "subject": "Contracts",
+    "subtopic": "Anticipatory Repudiation",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "A singer contracted to perform on December 15 for $50,000. On November 1 she repudiated. The venue hired a replacement for $65,000. On November 20 the singer retracted her repudiation.",
+    "question": "Must the venue allow the singer to perform?",
+    "choices": [
+      "Yes, retraction was before performance date.",
+      "Yes, duty to mitigate requires accepting retraction.",
+      "No, venue materially changed position before retraction.",
+      "No, anticipatory repudiation can never be retracted."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Right to retract is lost once the other party materially changes position.",
+      "Incorrect. Mitigation does not require accepting a retraction after substitute arrangements are made.",
+      "Correct. Repudiation may be retracted until the aggrieved party materially changes position. Hiring a replacement constitutes material change.",
+      "Incorrect. Repudiation can be retracted, but only before material reliance."
+    ]
+  },
+  {
+    "id": "evi-011",
+    "subject": "Evidence",
+    "subtopic": "Privileges",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "During a fraud trial, plaintiff sought to compel testimony about a conversation between defendant and his attorney. The defendant's adult daughter was also present in the room.",
+    "question": "Is the conversation privileged?",
+    "choices": [
+      "Yes, all attorney communications are privileged.",
+      "Yes, if the daughter was present to assist the consultation.",
+      "No, third party presence destroys privilege.",
+      "No, privilege does not apply in civil cases."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. Only confidential communications for legal advice are privileged.",
+      "Correct. A third party present to further the consultation does not destroy the privilege.",
+      "Incorrect. Third party presence does not automatically destroy privilege if they assist the consultation.",
+      "Incorrect. Privilege applies in both civil and criminal cases."
+    ]
+  },
+  {
+    "id": "crm-013",
+    "subject": "Criminal Law",
+    "subtopic": "Felony Murder",
+    "difficulty": 3,
+    "selectCount": 1,
+    "stem": "Three men planned a bank robbery. During it, one shot and killed a guard. The second was the getaway driver. The third provided guns but stayed home.",
+    "question": "Who can be charged with felony murder?",
+    "choices": [
+      "Only the shooter.",
+      "Shooter and driver, not the gun supplier.",
+      "All three, as participants in the underlying felony.",
+      "None, felony murder requires premeditation."
+    ],
+    "correct": [
+      2
+    ],
+    "explanations": [
+      "Incorrect. Felony murder extends to all participants.",
+      "Incorrect. The gun supplier was a co-conspirator and participant.",
+      "Correct. All participants in an inherently dangerous felony are liable for killings during its commission.",
+      "Incorrect. Felony murder does not require premeditation."
+    ]
+  },
+  {
+    "id": "civ-025",
+    "subject": "Civil Procedure",
+    "subtopic": "Personal Jurisdiction",
+    "difficulty": 2,
+    "selectCount": 1,
+    "stem": "Plaintiff from State A sued defendant from State B in State A federal court. Defendant has no physical presence in State A but sold defective goods to plaintiff through a website and shipped them to State A.",
+    "question": "Does State A have personal jurisdiction?",
+    "choices": [
+      "Yes, website accessible in State A.",
+      "Yes, purposefully directed commercial activity toward State A.",
+      "No, no physical presence.",
+      "No, websites alone are insufficient."
+    ],
+    "correct": [
+      1
+    ],
+    "explanations": [
+      "Incorrect. A nationally accessible website alone is not enough.",
+      "Correct. Selling and shipping goods to State A constitutes purposeful direction of commercial activity, establishing specific jurisdiction.",
+      "Incorrect. Physical presence is not required for personal jurisdiction.",
+      "Incorrect. Interactive commercial websites with forum-state transactions can establish jurisdiction."
+    ]
   }
 ]
